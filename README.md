@@ -14,7 +14,7 @@
 #### Development stage
 
 - [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-   - Plugin for Showing week day and week-number of the year or month beside journals page titles.
+   - Plugin for showing week day and, week-number of the year or month beside journals page titles.
 
 #### Published 2023
 
