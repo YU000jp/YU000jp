@@ -13,10 +13,12 @@
 
 #### Development stage
 
-- [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-   - Plugin for showing week day and, week-number within the year or month beside journals page titles.
+- None
 
 #### Published 2023
+
+- [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+   - Plugin for showing week day and, week-number within the year or month beside journals page titles.
 
 - [Weekdays and Holidays (Templates)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
    - Plugin for switching journal templates for weekdays and weekends, public holidays.
