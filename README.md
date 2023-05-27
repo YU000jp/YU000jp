@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
 
-<hr/>
+---
 
 ### Link
 
@@ -10,10 +10,6 @@
    - It is personal notes tool like a wiki. I use as journaling and for task managements everyday. Find it back using Properties, Hierarchy(Namespaces), Linked References, and Queries.
 
 ### My Logseq plugins
-
-#### Development stage
-
-- None
 
 #### Published 2023
 
@@ -36,9 +32,7 @@
 - [Column Layout](https://github.com/YU000jp/Logseq-column-Layout)
    - For quick reference, it is possible to place journals, linked references, and journal queries side by side.
 
-<hr/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" /> </p>
+---
 
 ### Connect with me
 * GitHub: [YU000jp](https://github.com/YU000jp)
