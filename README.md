@@ -34,6 +34,8 @@
 
 ---
 
+![README stars](https://github-readme-stats.vercel.app/api?username=YU000jp&theme=graywhite)
+
 ### Connect with me
 * GitHub: [YU000jp](https://github.com/YU000jp)
 * Twitter: [@y0skyblue](https://twitter.com/y0skyblue)
