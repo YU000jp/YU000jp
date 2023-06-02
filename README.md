@@ -11,6 +11,13 @@
 
 ### My Logseq plugins
 
+#### Development stage 👷🚧
+
+- [Quickly Page-tags and PARA method](https://github.com/YU000jp/logseq-plugin-quickly-page-tags)
+- [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+- [Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
+- [Confirmation Link Title (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-link-title)
+
 #### Published 2023
 
 - [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
