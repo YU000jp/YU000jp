@@ -13,8 +13,8 @@
 
 #### Development stage 👷🚧
 
-- [Quickly Page-tags and PARA method](https://github.com/YU000jp/logseq-plugin-quickly-page-tags)
 - [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+- [Quickly Page-tags and PARA method](https://github.com/YU000jp/logseq-plugin-quickly-page-tags)
 - [Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
 - [Confirmation Link Title (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-link-title)
 
