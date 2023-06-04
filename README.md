@@ -16,7 +16,7 @@
 - [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
 - [Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
 - [Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
-- [Confirmation Link Title (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-link-title)
+- [Confirmation Hyperlink (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
 
 #### Published 2023
 
