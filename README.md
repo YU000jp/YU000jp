@@ -20,15 +20,15 @@
 
 #### Published 2023
 
-- [Short Namespaces 🍰](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+- [Short Namespaces🍰](https://github.com/YU000jp/logseq-plugin-short-namespaces)
    - This plugin is providing abbreviated representation for namespaces (hierarchies).
-- [Quickly PARA method ⚓](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+- [Quickly PARA method⚓](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.
-- [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+- [Show Weekday and Week-number📆](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
    - Plugin for showing week day and, week-number within the year or month beside journals page titles.
 - [Weekdays and Holidays (Templates) 🛌](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
    - Plugin for switching journal templates for weekdays and weekends, public holidays.
-- [Sticky Popup 📍](https://github.com/YU000jp/logseq-plugin-sticky-popup)
+- [Sticky Popup📍](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - Plugin for showing selected text in a movable pop-up and positioning calendar.
 - [SomeMenuExtender](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - A plugin that adds new functions to context menus and others, allowing for more efficient and convenient operations.
