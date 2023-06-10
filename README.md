@@ -20,15 +20,15 @@
 
 #### Published 2023
 
-- [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+- [Short Namespaces 🍰](https://github.com/YU000jp/logseq-plugin-short-namespaces)
    - This plugin is providing abbreviated representation for namespaces (hierarchies).
-- [Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+- [Quickly PARA method ⚓](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.
 - [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
    - Plugin for showing week day and, week-number within the year or month beside journals page titles.
-- [Weekdays and Holidays (Templates)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
+- [Weekdays and Holidays (Templates) 🛌](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
    - Plugin for switching journal templates for weekdays and weekends, public holidays.
-- [Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup)
+- [Sticky Popup 📍](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - Plugin for showing selected text in a movable pop-up and positioning calendar.
 - [SomeMenuExtender](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - A plugin that adds new functions to context menus and others, allowing for more efficient and convenient operations.
@@ -37,9 +37,9 @@
 
 - [Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
-- [Page-tags and Hierarchy](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
+- [Page-tags and Hierarchy (UI)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
    - Place page tags and hierarchy in non-standard positions (right or bottom of the page).
-- [Column Layout](https://github.com/YU000jp/Logseq-column-Layout)
+- [Column Layout (UI)](https://github.com/YU000jp/Logseq-column-Layout)
    - For quick reference, it is possible to place journals, linked references, and journal queries side by side.
 
 ---
