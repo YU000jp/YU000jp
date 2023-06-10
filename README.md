@@ -11,19 +11,19 @@
 
 ### My Logseq plugins
 
-#### Development stage 👷🚧
+#### Development stage (Coming Soon)👷🚧
 
 - [Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
    - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
 - [Confirmation Hyperlink (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
    - Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.
-
-#### Published 2023
-
 - [Short Namespaces🍰](https://github.com/YU000jp/logseq-plugin-short-namespaces)
    - This plugin is providing abbreviated representation for namespaces (hierarchies).
 - [Quickly PARA method⚓](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.
+
+#### Published 2023
+
 - [Show Weekday and Week-number📆](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
    - Plugin for showing week day and, week-number within the year or month beside journals page titles.
 - [Weekdays and Holidays (Templates) 🛌](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
