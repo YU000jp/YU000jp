@@ -13,29 +13,29 @@
 
 #### Development stage (Coming Soon)👷🚧
 
-- [Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
+- [💪Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
    - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
-- [Confirmation Hyperlink (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
+- [🔗Confirmation Hyperlink (Pastes URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
    - Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.
-- [Short Namespaces🍰](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+- [🍰Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
    - This plugin is providing abbreviated representation for namespaces (hierarchies).
-- [Quickly PARA method⚓](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+- [⚓Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.
 
 #### Published 2023
 
-- [Show Weekday and Week-number📆](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+- [📆Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
    - Plugin for showing week day and, week-number within the year or month beside journals page titles.
-- [Weekdays and Holidays (Templates) 🛌](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
+- [🛌Weekdays and Holidays (Templates)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
    - Plugin for switching journal templates for weekdays and weekends, public holidays.
-- [Sticky Popup📍](https://github.com/YU000jp/logseq-plugin-sticky-popup)
+- [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - Plugin for showing selected text in a movable pop-up and positioning calendar.
 - [Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - This plugin provides several features that are currently in the development stage.
 
 #### Published 2022
 
-- [Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring)
+- 🎨[Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
 - [Page-tags and Hierarchy (UI)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
    - Place page tags and hierarchy in non-standard positions (right or bottom of the page).
