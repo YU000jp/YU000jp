@@ -9,7 +9,7 @@
 - [Logseq](https://logseq.com/)
    - It is personal notes tool like a wiki. I use as journaling and for task managements everyday. Find it back using Properties, Hierarchy(Namespaces), Linked References, and Queries.
 
-### My Logseq plugins
+### My products of Logseq plugin
 
 #### Published 2023
 
