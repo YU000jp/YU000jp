@@ -11,7 +11,7 @@
 
 ### My products of Logseq plugin
 
-#### Published 2023
+#### Published at 2023
 
 - [💪Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
    - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
@@ -30,7 +30,7 @@
 - [Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - This plugin provides several features that are currently in the development stage.
 
-#### Published 2022
+#### Published at 2022
 
 - 🎨[Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
