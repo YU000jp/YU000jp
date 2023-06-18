@@ -27,7 +27,7 @@
    - Plugin for switching journal templates for weekdays and weekends, public holidays.
 - [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - Plugin for showing selected text in a movable pop-up and positioning calendar.
-- [Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
+- [🌱Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - This plugin provides several features that are currently in the development stage.
 
 #### Published at 2022
