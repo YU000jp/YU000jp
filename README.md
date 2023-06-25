@@ -13,7 +13,8 @@
 
 #### Development stage 👷🚧
 
-- None
+- [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
+  - Insert multiple files into assets.
 
 #### Published at 2023
 
