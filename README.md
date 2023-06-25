@@ -11,6 +11,11 @@
 
 ### My products of Logseq plugin
 
+#### Development stage 👷🚧
+
+- [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
+  - Change bullet points style and color.
+
 #### Published at 2023
 
 - [💪Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
