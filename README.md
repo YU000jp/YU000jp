@@ -13,11 +13,12 @@
 
 #### Development stage 👷🚧
 
-- [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
-  - Change bullet points style and color.
+- None
 
 #### Published at 2023
 
+- [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
+  - Change bullet points style and color.
 - [💪Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
    - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
 - [🔗Confirmation Hyperlink (Paste URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
