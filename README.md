@@ -13,11 +13,12 @@
 
 #### Development stage 👷🚧
 
-- [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
-  - Insert multiple files into assets.
+- None
 
 #### Published at 2023
 
+- [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
+  - Save multiple files into assets and embed or link the content.
 - [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
   - Change bullet points style and color.
 - [💪Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
