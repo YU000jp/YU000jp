@@ -25,6 +25,8 @@
    - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
 - [🔗Confirmation Hyperlink (Paste URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
    - Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.
+   - For Online PDF
+     - When paste a PDF URL, a dialog will appear, allowing the editing of the title if necessary. Upon confirmation, it will be converted into a dedicated Markdown format and saved as a file in the assets.
 - [🍰Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
    - This plugin is providing abbreviated representation for namespaces (hierarchy).
 - [⚓Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
