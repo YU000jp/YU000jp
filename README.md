@@ -13,7 +13,7 @@
 
 #### Development stage 👷🚧
 
-- [🌞Daily Message](https://github.com/YU000jp/logseq-plugin-weekday-message) since 2023/07/09
+- [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice) since 2023/07/09
 
 #### Published at 2023
 
