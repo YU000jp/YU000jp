@@ -32,7 +32,8 @@
 - [⚓Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.
 - [📆Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-   - Plugin for showing week day and, week-number within the year or month beside journals page titles.
+   - Plugin for showing weekday and week number beside journal titles.
+   - Localize journal link 🆕
 - [🛌Weekdays and Holidays (Templates)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
    - Plugin for switching journal templates for weekdays and weekends, public holidays.
 - [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup)
