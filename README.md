@@ -13,7 +13,7 @@
 #### Development stage 👷🚧
 
 - [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice) since 2023/07/09
-  - A plugin that displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
+  - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
 
 #### Published at 2023
 
@@ -28,18 +28,18 @@
    - Online PDF into assets
      - When paste a PDF URL, a dialog will appear, allowing the editing of the title if necessary. Upon confirmation, it will be converted into a dedicated Markdown format and saved as a file in the assets.
 - [🍰Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
-   - This plugin is providing abbreviated representation for namespaces (hierarchy).
+   - Provides abbreviated representation for namespaces (hierarchy).
 - [⚓Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
-   - This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.
+   - Provides workflows for the PARA method. It quickly adds page-tags property.
 - [📆Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-   - Plugin for showing weekday and week number beside journal titles.
+   - Show weekday and week number beside journal titles.
    - Localize day of the week in journal links 🆕
 - [🛌Weekdays and Holidays (Templates)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
-   - Plugin for switching journal templates for weekdays and weekends, public holidays.
+   - Switch journal templates for weekdays and weekends, public holidays.
 - [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup)
-   - Plugin for showing selected text in a movable pop-up and positioning calendar.
+   - Show selected text in a movable pop-up and positioning calendar.
 - [🌱Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
-   - This plugin provides several features that are currently in the development stage.
+   - Provides several features that are currently in the development stage.
 
 #### Published at 2022
 
@@ -48,7 +48,7 @@
 - [Page-tags and Hierarchy (UI)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
    - Place page tags and hierarchy in non-standard positions (right or bottom of the page).
 - [Column Layout (UI)](https://github.com/YU000jp/Logseq-column-Layout)
-   - For quick reference, it is possible to place journals, linked references, and journal queries side by side.
+   - For quick reference, place journals, linked references, and journal queries side by side.
 
 ---
 
