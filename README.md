@@ -13,6 +13,7 @@
 #### Development stage 👷🚧
 
 - [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice) since 2023/07/09
+  - A plugin that displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
 
 #### Published at 2023
 
