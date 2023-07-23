@@ -6,6 +6,7 @@
 
 - [Logseq](https://logseq.com/): Journaling tool
    - It is personal notes tool like a wiki. I use as journaling and for task managements everyday. Find it back using Properties, Hierarchy(Namespaces), Linked References, and Queries.
+> **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
 
 ### My products of Logseq plugin
 
