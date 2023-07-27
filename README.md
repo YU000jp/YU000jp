@@ -14,6 +14,8 @@
 
 - [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice) since 2023/07/09
   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
+- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) since 2023/07/25
+  - A pack featuring color variations based on Logseq's original design theme.
 
 #### Published at 2023
 
