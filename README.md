@@ -12,13 +12,15 @@
 
 #### Development stage 👷🚧
 
-- [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice) since 2023/07/09
+- [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice)
   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
-- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) since 2023/07/25
-  - A pack featuring color variations based on Logseq's original design theme.
+  > Since 2023/07/09
 
 #### Published at 2023
 
+- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
+  - A pack featuring color variations based on Logseq's original design theme.
+  > Since 2023/07/25
 - [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
   - Save multiple files into assets and embed or link the content.
 - [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
