@@ -8,6 +8,14 @@
    - It is personal notes tool like a wiki. I use as journaling and for task managements everyday. Find it back using Properties, Hierarchy(Namespaces), Linked References, and Queries.
 > **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
 
+### My products of Logseq theme
+
+#### Published at 2023
+
+- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
+  - A pack featuring color variations based on Logseq's original design theme.
+  > Since 2023/07/25
+
 ### My products of Logseq plugin
 
 #### Development stage 👷🚧
@@ -18,9 +26,6 @@
 
 #### Published at 2023
 
-- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
-  - A pack featuring color variations based on Logseq's original design theme.
-  > Since 2023/07/25
 - [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
   - Save multiple files into assets and embed or link the content.
 - [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
