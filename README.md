@@ -24,43 +24,43 @@
   - Quickly insert blank lines below the selected block or the block of the page.
   > Since 2023/08/05
 
-- [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice)
+- [🌞Daily Notice plugin](https://github.com/YU000jp/logseq-plugin-daily-notice)
   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
   > Since 2023/07/09
 
 #### Published at 2023
 
-- [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
+- [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
   - Save multiple files into assets and embed or link the content.
-- [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
+- [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
   - Change bullet points style and color.
-- [💪Confirmation DONE task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
+- [💪Confirmation DONE task plugin](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
    - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
-- [🔗Confirmation Hyperlink (Paste URL)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
+- [🔗Confirmation Hyperlink (Paste URL) plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
    - Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.
    - Online PDF into assets
      - When paste a PDF URL, a dialog will appear, allowing the editing of the title if necessary. Upon confirmation, it will be converted into a dedicated Markdown format and saved as a file in the assets.
-- [🍰Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+- [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
    - Provides abbreviated representation for namespaces (hierarchy).
-- [⚓Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+- [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - Provides workflows for the PARA method. It quickly adds page-tags property.
-- [📆Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+- [📆Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
    - Show weekday and week number beside journal titles.
    - Localize day of the week in journal links 🆕
-- [🛌Weekdays and Holidays (Templates)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
+- [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
    - Switch journal templates for weekdays and weekends, public holidays.
-- [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup)
+- [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - Show selected text in a movable pop-up and positioning calendar.
-- [🌱Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
+- [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - Provides several features that are currently in the development stage.
 
 #### Published at 2022
 
-- 🎨[Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring)
+- 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
-- [Page-tags and Hierarchy (UI)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
+- [Page-tags and Hierarchy (UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
    - Place page tags and hierarchy in non-standard positions (right or bottom of the page).
-- [Column Layout (UI)](https://github.com/YU000jp/Logseq-column-Layout)
+- [Column Layout (UI) plugin](https://github.com/YU000jp/Logseq-column-Layout)
    - For quick reference, place journals, linked references, and journal queries side by side.
 
 ---
