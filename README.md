@@ -20,6 +20,10 @@
 
 #### Development stage 👷🚧
 
+- [🔘Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
+  - Quickly insert blank lines below the selected block or the block of the page.
+  > Since 2023/08/05
+
 - [🌞Daily Notice](https://github.com/YU000jp/logseq-plugin-daily-notice)
   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
   > Since 2023/07/09
