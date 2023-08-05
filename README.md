@@ -20,7 +20,7 @@
 
 #### Development stage 👷🚧
 
-- [🔘Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
+- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
   - Quickly insert blank lines below the selected block or the block of the page.
   > Since 2023/08/05
 
