@@ -1,31 +1,37 @@
-### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
+## Hi there 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
+
+- YU (me) is creating [Logseq](https://github.com/logseq) plugins
 
 ---
 
-### Favorite⭐
+## Suggested⭐
 
-- [Logseq](https://github.com/logseq): Journaling tool
-   - It is personal notes tool like a wiki. I use as journaling and for task managements everyday. Find it back using Properties, Hierarchy(Namespaces), Linked References, and Queries.
-> **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
+- **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
 
-### My products of Logseq theme
+### Enhance Logseq UI
 
-#### Published at 2023
+- For Journals, [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
+- For content pages, [Page-tags and Hierarchy plugin **Wide view mode**](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
 
-- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
-  - A pack featuring color variations based on Logseq's original design theme.
-  > Since 2023/07/25
+### Use templates
 
-### My products of Logseq plugin
+- [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
 
-#### Development stage 👷🚧
+---
+
+#### History (My products of Logseq plugin and theme)
+
+##### Development stage 👷🚧
 
 - [🌞Daily Notice plugin](https://github.com/YU000jp/logseq-plugin-daily-notice)
   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
   > Since 2023/07/09
 
-#### Published at 2023
+##### Published at 2023
 
+- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
+  - A pack featuring color variations based on Logseq's original design theme.
+  > Since 2023/07/25
 - [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
   - Quickly insert blank lines below the selected block or the block of the page.
 - [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
@@ -52,7 +58,7 @@
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - Provides several features that are currently in the development stage.
 
-#### Published at 2022
+##### Published at 2022
 
 - 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
