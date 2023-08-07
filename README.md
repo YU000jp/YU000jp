@@ -26,7 +26,7 @@
 
 #### Published at 2023
 
-- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
+- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
   - Quickly insert blank lines below the selected block or the block of the page.
 - [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
   - Save multiple files into assets and embed or link the content.
@@ -58,6 +58,7 @@
    - Accentuate specified pages or tagged blocks by coloring.
 - [Page-tags and Hierarchy (UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
    - Place page tags and hierarchy in non-standard positions (right or bottom of the page).
+     - **Wide view mode** 🆕
 - [Column Layout (UI) plugin](https://github.com/YU000jp/Logseq-column-Layout)
    - For quick reference, place journals, linked references, and journal queries side by side.
 
