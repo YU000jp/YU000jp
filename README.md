@@ -19,15 +19,15 @@
 
 ---
 
-#### History (My products of Logseq plugin and theme)
+## History (My products of Logseq plugin and theme)
 
-##### Development stage 👷🚧
+### Development stage 👷🚧
 
 - [🌞Daily Notice plugin](https://github.com/YU000jp/logseq-plugin-daily-notice)
   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
   > Since 2023/07/09
 
-##### Published at 2023
+### Published at 2023
 
 - [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
   - A pack featuring color variations based on Logseq's original design theme.
@@ -58,7 +58,7 @@
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - Provides several features that are currently in the development stage.
 
-##### Published at 2022
+### Published at 2022
 
 - 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
@@ -72,13 +72,13 @@
 
 ![README stars](https://github-readme-stats.vercel.app/api?username=YU000jp&theme=graywhite)
 
-### Connect with me
+## Connect with me
 * GitHub: [YU000jp](https://github.com/YU000jp)
 * Twitter: [@y0skyblue](https://twitter.com/y0skyblue)
 * Discord: YU#5179 ([Logseq](https://discord.gg/logseq))
 * ブクログ: [Web本棚](https://booklog.jp/users/p510hv)
 
-### Languages and Tools
+## Languages and Tools
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer" title="Perl"> Perl</a> <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ### Support
