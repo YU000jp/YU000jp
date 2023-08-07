@@ -63,7 +63,8 @@
 - 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
 - [Page-tags and Hierarchy (UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
-   - Place page tags and hierarchy in non-standard positions (right or bottom of the page).
+  - ~~Place page tags and hierarchy in non-standard positions (right or bottom of the page).~~
+  - Place page tags and hierarchy or references in non-standard positions. Choose from several modes.
      - **Wide view mode** 🆕
 - [Column Layout (UI) plugin](https://github.com/YU000jp/Logseq-column-Layout)
    - For quick reference, place journals, linked references, and journal queries side by side.
