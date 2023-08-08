@@ -29,11 +29,12 @@
 
 ### Published at 2023
 
+- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
+  - Quickly inserts blank lines above or below a selected block or block on a page.
+  - Published 2023/08/07
 - [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
   - A pack featuring color variations based on Logseq's original design theme.
-  > Since 2023/07/25
-- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
-  - Quickly insert blank lines below the selected block or the block of the page.
+  > Published 2023/07/25
 - [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
   - Save multiple files into assets and embed or link the content.
 - [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
