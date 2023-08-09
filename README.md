@@ -17,6 +17,10 @@
 
 - [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
 
+### Enhance writing on outliner
+
+- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
+
 ---
 
 ## History (My products of Logseq plugin and theme)
