@@ -25,12 +25,6 @@
 
 ## History (My products of Logseq plugin and theme)
 
-### Development stage 👷🚧
-
-- [🌞Daily Notice plugin](https://github.com/YU000jp/logseq-plugin-daily-notice)
-  - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks.
-  - Since 2023/07/09
-
 ### Published at 2023
 
 - [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
