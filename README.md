@@ -25,7 +25,7 @@
 
 ## History (My products of Logseq plugin and theme)
 
-### Published at 2023
+### Released in 2023
 
 - [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
   - Quickly inserts blank lines above or below a selected block or block on a page.
@@ -57,7 +57,7 @@
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - Provides several features that are currently in the development stage.
 
-### Published at 2022
+### Released in 2022
 
 - 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
    - Accentuate specified pages or tagged blocks by coloring.
