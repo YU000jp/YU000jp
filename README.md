@@ -54,6 +54,7 @@
    - Switch journal templates for weekdays and weekends, public holidays.
 - [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - Show selected text in a movable pop-up and positioning calendar.
+   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks. When the Journal template is loaded, they are displayed. 2023/08/11🆙
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
    - Provides several features that are currently in the development stage.
 
