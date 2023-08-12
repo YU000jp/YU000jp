@@ -6,6 +6,8 @@
 
 ## Suggested⭐
 
+### Enhance task manegement
+
 - **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
 
 ### Enhance Logseq UI
