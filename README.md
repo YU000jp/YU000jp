@@ -4,7 +4,7 @@
 
 ---
 
-## Suggested⭐
+## Suggested for Logseq user ⭐
 
 ### Enhance task manegement
 
