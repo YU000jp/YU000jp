@@ -27,9 +27,7 @@
 
 ## Development stage 🚧🦺
 
-- [🔁Localize task workflow state plugin](https://github.com/YU000jp/logseq-plugin-localize-task-workflow-state/)
-  - Provides means to replace the task workflow.
-  > Sicne 2023/08/14
+- None
 
 ---
 
