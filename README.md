@@ -30,6 +30,9 @@
 - [Legacy date format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) 🆕
   - Since 2023/08/19
 
+- [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
+  - Page Date Notifier 🆕
+
 ## History (My products of Logseq plugin and theme)
 
 ### Released in 2023
