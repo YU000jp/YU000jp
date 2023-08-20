@@ -34,7 +34,7 @@
 
 ### Released in 2023
 
-- [Legacy date format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) 🆕
+- [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format) 🆕
   - Replace or redirect to enable the use of legacy date formats. Replace inactive links with journal attributes.They function as both links and references within.
   - Published 2023/08/19
 - [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
