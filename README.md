@@ -27,6 +27,9 @@
 
 ## Development stage 🚧🦺
 
+- [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) 🆕
+  - Since 2023/08/22
+
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
