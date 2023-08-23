@@ -27,9 +27,6 @@
 
 ## Development stage 🚧🦺
 
-- [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) 🆕
-  - Since 2023/08/22
-
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
@@ -37,6 +34,8 @@
 
 ### Released in 2023
 
+- [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) 🆕
+  - Localize date format. Or switch to style of the selected format.
 - [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format) 🆕
   - Replace or redirect to enable the use of legacy date formats. Replace inactive links with journal attributes.They function as both links and references within.
   - Published 2023/08/19
