@@ -27,6 +27,8 @@
 
 ## Development stage 🚧🦺
 
+- [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
+  - Since 2023/09/18
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
