@@ -30,8 +30,6 @@
 - [Left-Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
 - mouse over to show left sidebar
 - Since 2023/09/24
-- [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
-  - Since 2023/09/18
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
@@ -39,6 +37,8 @@
 
 ### Released in 2023
 
+- [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
+  - Displays collections of links at bottom of a page content. Collect outgoing links and generate further links.
 - [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) 🆕
   - Localize date format. Or switch to style of the selected format.
   - Published 2023/08/23
