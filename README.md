@@ -34,7 +34,7 @@
 
 ### Released in 2023
 
-- [Left-Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) 🆕
+- [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) 🆕
   - mouse over to show left sidebar
 - [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
   - Displays collections of links at bottom of a page content. Collect outgoing links and generate further links.
