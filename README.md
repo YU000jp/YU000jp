@@ -21,7 +21,7 @@
 
 ### Enhance writing on outliner
 
-- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
+- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
 
 ---
 
@@ -34,17 +34,17 @@
 
 ### Released in 2023
 
-- [Left-Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
+- [Left-Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) 🆕
   - mouse over to show left sidebar
 - [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
   - Displays collections of links at bottom of a page content. Collect outgoing links and generate further links.
-- [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) 🆕
+- [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
   - Localize date format. Or switch to style of the selected format.
   - Published 2023/08/23
-- [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format) 🆕
+- [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
   - Replace or redirect to enable the use of legacy date formats. Replace inactive links with journal attributes.They function as both links and references within.
   - Published 2023/08/19
-- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line) 🆕
+- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
   - Quickly inserts blank lines above or below a selected block or block on a page.
   - Published 2023/08/07
 - [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
