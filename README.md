@@ -27,6 +27,8 @@
 
 ## Development stage 🚧🦺
 
+- [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
+  - Show size of referenced page next to every reference.
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
