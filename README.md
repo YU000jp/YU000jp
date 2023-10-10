@@ -27,8 +27,6 @@
 
 ## Development stage 🚧🦺
 
-- [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
-  - Show size of referenced page next to every reference.
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
@@ -36,6 +34,9 @@
 
 ### Released in 2023
 
+- [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
+  - Show size of referenced page next to every reference.
+  - Published 2023/10/10
 - [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) 🆕
   - mouse over to show left sidebar
 - [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
