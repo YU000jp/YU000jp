@@ -27,6 +27,9 @@
 
 ## Development stage 🚧🦺
 
+- [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
+  - Place child blocks next to the parent block.
+  - Since 2023/10/13
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
