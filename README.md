@@ -36,6 +36,8 @@
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
+---
+
 ## My products history
 
 ### Released in 2023
