@@ -15,14 +15,6 @@
 - For Journals, [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
 - For content pages, [Page-tags and Hierarchy plugin **Wide view mode**](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
 
-### Use templates each day of the week
-
-- [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
-
-### Enhance writing on outliner
-
-- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
-
 ---
 
 ## Development stage 🚧🦺
