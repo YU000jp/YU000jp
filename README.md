@@ -17,23 +17,23 @@
 
 ---
 
-## Development stage 🚧🦺
+## My products history
 
-- [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
-  - Use custom icons for bullets with specific tags. Choice Tabler-icon or emoji.
-  - Since 2023/10/13
-- [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
-  - Place child blocks next to the parent block.
-  - Since 2023/10/13
+### Now
+
+development stage 🚧🦺
+
 - [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
   - Page Date Notifier 🆕
 
----
-
-## My products history
-
 ### Released in 2023
 
+- [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
+  - Use custom icons for bullets with specific tags. Choice Tabler-icon or emoji.
+  - Since 2023/10/15
+- [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
+  - Place child blocks next to the parent block.
+  - Since 2023/10/15
 - [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
   - Show size of referenced page next to every reference.
   - Published 2023/10/10
