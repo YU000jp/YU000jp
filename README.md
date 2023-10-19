@@ -1,3 +1,5 @@
+[日本語](README.ja.md)
+
 ## Hi there 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
 
 - YU (YU000jp) is creating [Logseq](https://github.com/logseq) plugins
