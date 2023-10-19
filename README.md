@@ -28,18 +28,18 @@ development stage 🚧🦺
 
 ### Released in 2023
 
-- [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
+- [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
   - Use custom icons for bullets with specific tags. Choice Tabler-icon or emoji.
   - Since 2023/10/15
-- [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
+- [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) 🆕
   - Place child blocks next to the parent block.
   - Since 2023/10/15
 - [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
   - Show size of referenced page next to every reference.
   - Published 2023/10/10
-- [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) 🆕
+- [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
   - mouse over to show left sidebar
-- [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) 🆕
+- [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
   - Displays collections of links at bottom of a page content. Collect outgoing links and generate further links.
 - [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
   - Localize date format. Or switch to style of the selected format.
