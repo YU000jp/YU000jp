@@ -11,7 +11,7 @@
 1. [Assets Plus プラグイン](https://github.com/xyhp915/logseq-assets-plus) READMEのみ、ほか承認済み リリース待ち
 2. [Smart Search プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
 3. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 承認待ち
-4. [Whisper Subtitles プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) READMEなし、リリース済み
+4. [Whisper Subtitles プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) リリース済み、README作成予定
 
 ## 作成したプラグイン一覧
 
