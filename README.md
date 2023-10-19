@@ -20,14 +20,9 @@
 ---
 
 ## My products history
+<!-- ### Now
 
-### Now
-
-development stage 🚧🦺
-
-- [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
-  - Page Date Notifier 🆕
-
+development stage 🚧🦺 -->
 ### Released in 2023
 
 - [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
