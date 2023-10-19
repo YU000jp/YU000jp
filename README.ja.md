@@ -4,70 +4,78 @@
 
 ---
 
-## 作成したプラグイン一覧
-
 > 以下、日本語対応済みには 🗾マークがついています
 
-### 2023年にリリース
+## 翻訳したプラグイン一覧
 
-- [#️⃣Bullet Point custom icon プラグイン](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 
-  - 特定のタグ付きの箇条書きにカスタムアイコンを使用できます。Tablerアイコンまたは絵文字を選択できます。
-  - 2023/10/15以降
-- [🥦Side Block プラグイン](https://github.com/YU000jp/logseq-plugin-side-block)
-  - 子ブロックを親ブロックの隣に配置します。
-  - 2023/10/15以降
-- [Reference guide プラグイン](https://github.com/YU000jp/logseq-plugin-reference-guide)
-  - 参照ページのサイズをすべての参照の隣に表示します。
-  - 2023/10/10に公開
-- [Left-Sidebar Enhance プラグイン](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
-  - マウスオーバーで左サイドバーを表示します。
-- [2 hop link プラグイン](https://github.com/YU000jp/logseq-plugin-two-hop-link)
-  - ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。
-- [Flex date format プラグイン](https://github.com/YU000jp/logseq-plugin-flex-date-format)
-  - 日付フォーマットをローカライズします。または選択したフォーマットのスタイルに切り替えます。
-  - 2023/08/23に公開
-- [Legacy date format プラグイン](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
-  - 旧式の日付フォーマットの使用を可能にするために置換またはリダイレクトします。非アクティブなリンクをジャーナル属性として置換します。これらはリンクと参照の両方として機能します。
-  - 2023/08/19に公開
-- [🦢Blank line プラグイン](https://github.com/YU000jp/logseq-plugin-blank-line)
-  - 選択したブロックまたはページの上または下に空行を迅速に挿入します。
-  - 2023/08/07に公開
-- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
-  - Logseqの元のデザインテーマに基づいたカラーバリエーションを特集したパック。
-  - 2023/07/25に公開
-- [📂Multiple Files into Assets プラグイン](https://github.com/YU000jp/logseq-plugin-multiple-assets)
-  - 複数のファイルをアセットに保存し、コンテンツに埋め込むかリンクします。
-- [🔷Bullet Point Style プラグイン](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
-  - 箇条書きのスタイルと色を変更します。
-- [💪Confirmation DONE task プラグイン](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
+1. [Assets Plus プラグイン](https://github.com/xyhp915/logseq-assets-plus) READMEのみ (リリース後)
+2. [Smart Search プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) リリース後
+3. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) リリース後
+4. [Whisper Subtitles プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) READMEなし、リリース済み
+
+## 作成したプラグイン一覧
+
+### 2023年にリリース
+> 上から新しい順
+
+1. [#️⃣Bullet Point custom icon プラグイン](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 
+   - 特定のタグ付きの箇条書きにカスタムアイコンを使用できます。Tablerアイコンまたは絵文字を選択できます。
+   - 2023/10/15以降
+1. [🥦Side Block プラグイン](https://github.com/YU000jp/logseq-plugin-side-block)
+   - 子ブロックを親ブロックの隣に配置します。
+   - 2023/10/15以降
+1. [Reference guide プラグイン](https://github.com/YU000jp/logseq-plugin-reference-guide)
+   - 参照ページのサイズをすべての参照の隣に表示します。
+   - 2023/10/10に公開
+1. [Left-Sidebar Enhance プラグイン](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
+   - マウスオーバーで左サイドバーを表示します。
+1. [2 hop link プラグイン](https://github.com/YU000jp/logseq-plugin-two-hop-link)
+   - ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。
+1. [Flex date format プラグイン](https://github.com/YU000jp/logseq-plugin-flex-date-format)
+   - 日付フォーマットをローカライズします。または選択したフォーマットのスタイルに切り替えます。
+   - 2023/08/23に公開
+1. [Legacy date format プラグイン](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
+   - 旧式の日付フォーマットの使用を可能にするために置換またはリダイレクトします。非アクティブなリンクをジャーナル属性として置換します。これらはリンクと参照の両方として機能します。
+   - 2023/08/19に公開
+1. [🦢Blank line プラグイン](https://github.com/YU000jp/logseq-plugin-blank-line)
+   - 選択したブロックまたはページの上または下に空行を迅速に挿入します。
+   - 2023/08/07に公開
+1. [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
+   - Logseqの元のデザインテーマに基づいたカラーバリエーションを特集したパック。
+   - 2023/07/25に公開
+1. [📂Multiple Files into Assets プラグイン](https://github.com/YU000jp/logseq-plugin-multiple-assets)
+   - 複数のファイルをアセットに保存し、コンテンツに埋め込むかリンクします。
+1. [🔷Bullet Point Style プラグイン](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
+   - 箇条書きのスタイルと色を変更します。
+1. [💪Confirmation DONE task プラグイン](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
    - タスクが完了としてマークされた場合、確認ダイアログが表示され、ブロックに日付が追加されます。
-- [🔗Confirmation Hyperlink (Paste URL) プラグイン](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
+1. [🔗Confirmation Hyperlink (Paste URL) プラグイン](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
    - URLを貼り付けて確認ダイアログを介してページのタイトルを取得し、Markdownハイパーリンクを作成します。
    - オンラインPDFをアセットに変換
      - PDFのURLを貼り付けると、必要に応じてタイトルの編集が可能なダイアログが表示されます。確認後、専用のMarkdown形式に変換され、アセットとして保存されます。
-- [🍰Short Namespaces プラグイン](https://github.com/YU000jp/logseq-plugin-short-namespaces) 
+1. [🍰Short Namespaces プラグイン](https://github.com/YU000jp/logseq-plugin-short-namespaces) 
    - 名前空間（階層）の省略表記を提供します。
-- [⚓Quickly PARA method プラグイン](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+1. [⚓Quickly PARA method プラグイン](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - PARAメソッドのワークフローを提供します。ページタグプロパティを迅速に追加します。
-- [📆Show Weekday and Week-number プラグイン](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) 🗾
+1. [📆Show Weekday and Week-number プラグイン](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) 🗾
      - ジャーナルタイトルの横に曜日と週番号を表示します。
    - ジャーナルリンク内の曜日をローカライズ 🆕
-- [🛌Weekdays and Holidays (Templates) プラグイン](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) 🗾
+1. [🛌Weekdays and Holidays (Templates) プラグイン](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) 🗾
    - 平日と週末、祝日用のジャーナルテンプレートを切り替えます。
-- [📍Sticky Popup プラグイン](https://github.com/YU000jp/logseq-plugin-sticky-popup)
+1. [📍Sticky Popup プラグイン](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - 移動可能なポップアップ内で選択したテキストを表示し、カレンダーを配置します。
    - 曜日ごとにユーザーメッセージを表示し、期限切れのタスクに関するリマインダー機能を追加します。ジャーナルテンプレートが読み込まれると、表示されます。2023/08/11🆙
-- [🌱Innovation Lab プラグイン](https://github.com/YU000jp/logseq-plugin-some-menu-extender) 🗾
+1. [🌱Innovation Lab プラグイン](https://github.com/YU000jp/logseq-plugin-some-menu-extender) 🗾
    - 現在開発中のいくつかの機能や他のプラグインのバグ修正バージョンを提供します。
 
 ### 2022年にリリース
 
-- 🎨[Panel Coloring プラグイン](https://github.com/YU000jp/logseq-plugin-panel-coloring) 🗾
+1. 🎨[Panel Coloring プラグイン](https://github.com/YU000jp/logseq-plugin-panel-coloring) 🗾
    - 指定したページまたはタグ付きブロックを強調表示するために着色します。
-- [Page-tagsおよびHierarchyプラグイン](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) 🗾
-  1. ページタイトルの階層をリンクとして分割
-  1. ページビューUI用のページタグと階層
-- [Column Layout プラグイン](https://github.com/YU000jp/Logseq-column-Layout) 🗾
+1. [Page-tagsおよびHierarchyプラグイン](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) 🗾
+   - ページタイトルの階層をリンクとして分割
+   -  ページビューUI用のページタグと階層
+1. [Column Layout プラグイン](https://github.com/YU000jp/Logseq-column-Layout) 🗾
    - ジャーナル、リンクされた参照、およびジャーナルクエリを横に配置するためのものです。
 
 ---
