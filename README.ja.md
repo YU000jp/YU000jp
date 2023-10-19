@@ -4,11 +4,11 @@
 
 ---
 
-> 以下、日本語対応が完了したものには 🗾マークがついています
+> 以下、日本語対応が完了したものには 🇯🇵マークがついています
 
 ## 翻訳したプラグイン一覧
 
-1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) READMEのみ、ほか承認済み リリース待ち
+1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🇯🇵
 2. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
 3. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 承認待ち
 4. [Whisper 字幕アウトプット プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) リリース済み、README作成予定
@@ -46,29 +46,29 @@
    - URLを貼り付けて確認ダイアログを介してページのタイトルを取得し、Markdownハイパーリンクを作成します。
    - オンラインPDFをアセットに変換
      - PDFのURLを貼り付けると、必要に応じてタイトルの編集が可能なダイアログが表示されます。確認後、専用のMarkdown形式に変換され、アセットとして保存されます。
-1. [🍰階層の省略表示 プラグイン](https://github.com/YU000jp/logseq-plugin-short-namespaces) 🗾
+1. [🍰階層の省略表示 プラグイン](https://github.com/YU000jp/logseq-plugin-short-namespaces) 🇯🇵
    - 長くなりがちな、階層をもつリンクを省略して表示します。
 1. [⚓PARAメソッド プラグイン](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - PARAメソッドのワークフローを提供します。ページタグ プロパティに追加します。
-1. [📆曜日と週番号の プラグイン](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) 🗾
+1. [📆曜日と週番号の プラグイン](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) 🇯🇵
      - 日付タイトルの横に、曜日と週番号を表示します。
      - 日誌にそのリンクを持つミニカレンダーを表示します。前後の日付にアクセスしたり、週刊レビューと月刊レビューのページへのリンクが提供されます。
-1. [🛌曜日ごとのテンプレート プラグイン](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) 🗾
+1. [🛌曜日ごとのテンプレート プラグイン](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) 🇯🇵
    - 平日と週末、祝日用に、日誌テンプレートを切り替えます。
 1. [📍ポップアップ プラグイン](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - 移動可能なポップアップ内で選択したテキストを表示し、カレンダーを配置します。
    - 曜日ごとにユーザーメッセージを表示し、期限切れのタスクに関するリマインダー機能を追加します。ジャーナルテンプレートが読み込まれると、表示されます。
-1. [🌱機能開発用 プラグイン](https://github.com/YU000jp/logseq-plugin-some-menu-extender) 🗾
+1. [🌱機能開発用 プラグイン](https://github.com/YU000jp/logseq-plugin-some-menu-extender) 🇯🇵
    - 現在開発中のいくつかの機能や他のプラグインのバグ修正バージョンを提供します。
 
 ### 2022年にリリース
 
-1. 🎨[パネルカラーリング プラグイン](https://github.com/YU000jp/logseq-plugin-panel-coloring) 🗾
+1. 🎨[パネルカラーリング プラグイン](https://github.com/YU000jp/logseq-plugin-panel-coloring) 🇯🇵
    - 特定のページや、特定のタグをもつブロック に色をつけます。
-1. [ページタグと階層 プラグイン](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) 🗾
+1. [ページタグと階層 プラグイン](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) 🇯🇵
    - ページタイトルの階層をリンクとして分割
    -  ページビューUI用のページタグと階層
-1. [カラムレイアウト プラグイン](https://github.com/YU000jp/Logseq-column-Layout) 🗾
+1. [カラムレイアウト プラグイン](https://github.com/YU000jp/Logseq-column-Layout) 🇯🇵
    - 日誌のためのページビューUI: 日誌ページで、日誌(ジャーナル)、"Lined References"、日誌クエリーを横並びにして配置します。
 
 ---
