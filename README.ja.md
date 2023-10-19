@@ -52,12 +52,11 @@
    - PARAメソッドのワークフローを提供します。ページタグプロパティを迅速に追加します。
 1. [📆Show Weekday and Week-number プラグイン](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) 🗾
      - ジャーナルタイトルの横に曜日と週番号を表示します。
-   - ジャーナルリンク内の曜日をローカライズ 🆕
 1. [🛌Weekdays and Holidays (Templates) プラグイン](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) 🗾
    - 平日と週末、祝日用のジャーナルテンプレートを切り替えます。
 1. [📍Sticky Popup プラグイン](https://github.com/YU000jp/logseq-plugin-sticky-popup)
    - 移動可能なポップアップ内で選択したテキストを表示し、カレンダーを配置します。
-   - 曜日ごとにユーザーメッセージを表示し、期限切れのタスクに関するリマインダー機能を追加します。ジャーナルテンプレートが読み込まれると、表示されます。2023/08/11🆙
+   - 曜日ごとにユーザーメッセージを表示し、期限切れのタスクに関するリマインダー機能を追加します。ジャーナルテンプレートが読み込まれると、表示されます。
 1. [🌱Innovation Lab プラグイン](https://github.com/YU000jp/logseq-plugin-some-menu-extender) 🗾
    - 現在開発中のいくつかの機能や他のプラグインのバグ修正バージョンを提供します。
 
