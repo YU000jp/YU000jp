@@ -64,7 +64,7 @@ development stage 🚧🦺
    - Online PDF into assets
      - When paste a PDF URL, a dialog will appear, allowing the editing of the title if necessary. Upon confirmation, it will be converted into a dedicated Markdown format and saved as a file in the assets.
 - [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
-   - Provides abbreviated representation for namespaces (hierarchy).
+   - Displays hierarchical links, which tend to be long, by omitting them.
 - [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - Provides workflows for the PARA method. It quickly adds page-tags property.
 - [📆Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
