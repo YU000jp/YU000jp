@@ -18,23 +18,23 @@
 ### 2023年にリリース
 > 上から新しい順
 
-1. [#️⃣箇条書きのカスタムアイコン プラグイン](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 2023/10/15
+1. [#️⃣箇条書きのカスタムアイコン プラグイン](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
    - 特定のタグ付きの箇条書きにカスタムアイコンを使用できます。Tablerアイコンまたは絵文字を選択できます。
-1. [🥦サイドブロック プラグイン](https://github.com/YU000jp/logseq-plugin-side-block) 2023/10/15
+1. [🥦サイドブロック プラグイン](https://github.com/YU000jp/logseq-plugin-side-block)
    - 子ブロックを親ブロックの隣に配置します。
-1. [参照ガイド プラグイン](https://github.com/YU000jp/logseq-plugin-reference-guide) 2023/10/10
+1. [参照ガイド プラグイン](https://github.com/YU000jp/logseq-plugin-reference-guide)
    - 参照ページのサイズをすべての参照の隣に表示します。
 1. [左サイドバー強化 プラグイン](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
    - マウスオーバーで左サイドバーを表示します。
 1. [2 ホップリンク プラグイン](https://github.com/YU000jp/logseq-plugin-two-hop-link)
    - ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。
-1. [柔軟な日付形式のための プラグイン](https://github.com/YU000jp/logseq-plugin-flex-date-format) 2023/08/23
+1. [柔軟な日付形式のための プラグイン](https://github.com/YU000jp/logseq-plugin-flex-date-format)
    - 日付フォーマットをローカライズします。または選択したフォーマットのスタイルに切り替えます。
-1. [以前の日付形式のための プラグイン](https://github.com/YU000jp/logseq-plugin-legacy-date-format) 2023/08/19
+1. [以前の日付形式のための プラグイン](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
    - 旧式の日付フォーマットの使用を可能にするために置換またはリダイレクトします。非アクティブなリンクをジャーナル属性として置換します。これらはリンクと参照の両方として機能します。
-1. [🦢空白 プラグイン](https://github.com/YU000jp/logseq-plugin-blank-line) 2023/08/07
+1. [🦢空白 プラグイン](https://github.com/YU000jp/logseq-plugin-blank-line)
    - 選択したブロックまたはページの上または下に空行を迅速に挿入します。
-1. [クラシック ダークテーマ パック](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) 2023/07/25
+1. [クラシック ダークテーマ パック](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
    - 背景色が暗めのダークテーマ。カラーバリエーションを増やしたパック。
 1. [📂複数のファイルをアセットに入れる プラグイン](https://github.com/YU000jp/logseq-plugin-multiple-assets)
    - 複数のファイルをアセットに保存し、コンテンツに埋め込むかリンクします。
