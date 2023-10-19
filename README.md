@@ -1,6 +1,6 @@
 [日本語](README.ja.md)
 
-## Hi there 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
 
 - YU (YU000jp) is creating [Logseq](https://github.com/logseq) plugins
 
@@ -8,14 +8,11 @@
 
 ## Suggested for Logseq user ⭐
 
-### Enhance task manegement
+Enhance task manegement: **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
 
-- **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
-
-### Enhance Logseq UI
-
-- For Journals, [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
-- For content pages, [Page-tags and Hierarchy plugin **Wide view mode**](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
+Enhance Logseq Page View UI:
+   1. For Journals, [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
+   1. For content pages, [Page-tags and Hierarchy plugin **Wide view mode**](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
 
 ---
 
@@ -25,64 +22,31 @@
 development stage 🚧🦺 -->
 ### Released in 2023
 
-- [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
-  - Use custom icons for bullets with specific tags. Choice Tabler-icon or emoji.
-  - Since 2023/10/15
-- [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) 🆕
-  - Place child blocks next to the parent block.
-  - Since 2023/10/15
-- [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
-  - Show size of referenced page next to every reference.
-  - Published 2023/10/10
-- [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
-  - mouse over to show left sidebar
-- [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
-  - Displays collections of links at bottom of a page content. Collect outgoing links and generate further links.
-- [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
-  - Localize date format. Or switch to style of the selected format.
-  - Published 2023/08/23
-- [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
-  - Replace or redirect to enable the use of legacy date formats. Replace inactive links with journal attributes.They function as both links and references within.
-  - Published 2023/08/19
-- [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
-  - Quickly inserts blank lines above or below a selected block or block on a page.
-  - Published 2023/08/07
-- [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
-  - A pack featuring color variations based on Logseq's original design theme.
-  - Published 2023/07/25
-- [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
-  - Save multiple files into assets and embed or link the content.
-- [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
-  - Change bullet points style and color.
-- [💪Confirmation DONE task plugin](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
-   - When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.
-- [🔗Confirmation Hyperlink (Paste URL) plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
-   - Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.
-   - Online PDF into assets
-     - When paste a PDF URL, a dialog will appear, allowing the editing of the title if necessary. Upon confirmation, it will be converted into a dedicated Markdown format and saved as a file in the assets.
-- [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
-   - Displays hierarchical links, which tend to be long, by omitting them.
-- [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
-   - Provides workflows for the PARA method. It quickly adds page-tags property.
-- [📆Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-   - Show weekday and week number beside journal titles.
-- [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
-   - Switch journal templates for weekdays and weekends, public holidays.
-- [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
-   - Show selected text in a movable pop-up and positioning calendar.
-   - Displays user messages by day of the week, with the added functionality of reminding about overdue tasks. When the Journal template is loaded, they are displayed.
-- [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
-   - Provides several features that are currently in the development stage.
+1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
+1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) 🆕
+1. [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
+1. [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
+1. [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
+1. [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
+1. [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
+1. [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
+1. [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
+1. [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
+1. [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
+1. [💪Confirmation DONE task plugin](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
+1. [🔗Confirmation Hyperlink (Paste URL) plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
+1. [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
+1. [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
+1. [📆Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+1. [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
+1. [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
+1. [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
 
 ### Released in 2022
 
-- 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
-   - Accentuate specified pages or tagged blocks by coloring.
-- [Page-tags and Hierarchy plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
-  1. Split page title hierarchy as links
-  1. Page view UI for page-tags and hierarchy
-- [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
-   - For quick reference, place journals, linked references, and journal queries side by side.
+1. 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
+1. [Page-tags and Hierarchy plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
+1. [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
 
 ---
 
