@@ -46,7 +46,7 @@
    - URLを貼り付けて確認ダイアログを介してページのタイトルを取得し、Markdownハイパーリンクを作成します。
    - オンラインPDFをアセットに変換
      - PDFのURLを貼り付けると、必要に応じてタイトルの編集が可能なダイアログが表示されます。確認後、専用のMarkdown形式に変換され、アセットとして保存されます。
-1. [🍰Short Namespaces プラグイン](https://github.com/YU000jp/logseq-plugin-short-namespaces) 
+1. [🍰Short Namespaces プラグイン](https://github.com/YU000jp/logseq-plugin-short-namespaces) 🗾
    - 名前空間（階層）の省略表記を提供します。
 1. [⚓Quickly PARA method プラグイン](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
    - PARAメソッドのワークフローを提供します。ページタグプロパティを迅速に追加します。
