@@ -6,14 +6,14 @@
 
 > 以下、日本語対応が完了したものには 🇯🇵マークがついています
 
-## 翻訳したプラグイン一覧
+## 日本語に翻訳したプラグイン一覧
 
 1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🇯🇵
 2. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
 3. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 承認待ち
 4. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🇯🇵
 
-## 作成したプラグイン一覧
+## 私が作成したプラグイン一覧
 
 ### 2023年にリリース
 > 上から新しい順
