@@ -11,7 +11,7 @@
 1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🇯🇵
 2. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
 3. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 承認待ち
-4. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) リリース済み、README作成予定
+4. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🇯🇵
 
 ## 作成したプラグイン一覧
 
