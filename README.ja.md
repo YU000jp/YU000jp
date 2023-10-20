@@ -19,9 +19,9 @@
   > 上から新しい順
 
   <details>
-    <summary>箇条書きスタイル変更🔷 プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-style">GitHubで見る</a> プラグイン名は「Bullet Point Style」
-    <p>箇条書きのスタイルと色を変更します。</p>
+    <summary>箇条書きのカスタムアイコン プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon">GitHubで見る</a> プラグイン名は「Bullet Point Custom Icon」
+    <p>特定のタグ付きの箇条書きにカスタムアイコンを使用できます。Tablerアイコンまたは絵文字を選択できます。</p>
   </details>
 
   <details>
@@ -79,9 +79,9 @@
   </details>
 
   <details>
-    <summary>箇条書きのカスタムアイコン プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon">GitHubで見る</a> プラグイン名は「Bullet Point Custom Icon」
-    <p>特定のタグ付きの箇条書きにカスタムアイコンを使用できます。Tablerアイコンまたは絵文字を選択できます。</p>
+    <summary>箇条書きスタイル変更🔷 プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-style">GitHubで見る</a> プラグイン名は「Bullet Point Style」
+    <p>箇条書きのスタイルと色を変更します。</p>
   </details>
 
   <details>
