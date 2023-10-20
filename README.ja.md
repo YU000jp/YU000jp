@@ -4,19 +4,19 @@
 
 ---
 
-> 以下、日本語対応が完了したものには 🇯🇵マークがついています
+> 以下、日本語対応が完了したものには 🚀マークがついています
 
-## 日本語に翻訳したプラグイン一覧
+#### 日本語に翻訳したプラグイン一覧
 
-1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🇯🇵
-2. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
-3. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 🇯🇵
-4. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🇯🇵
+  1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🚀
+  1. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
+  1. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 🚀
+  1. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🚀
 
-## 私が作成したプラグイン一覧
+#### 私が作成したプラグイン一覧
 
-### 2023年にリリース
-> 上から新しい順
+- 2023年にリリース
+  > 上から新しい順
 
   <details>
     <summary>箇条書きスタイル変更🔷 プラグイン</summary>
@@ -25,45 +25,9 @@
   </details>
 
   <details>
-    <summary>複数のファイルをアセットに入れる📂 プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-multiple-assets">GitHubで見る</a> プラグイン名は「Multiple Files into Assets」
-    <p>複数のファイルをアセットに保存し、コンテンツに埋め込むかリンクします。</p>
-  </details>
-
-  <details>
-    <summary>クラシック ダークテーマ パック</summary>
-    <a href="https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack">GitHubで見る</a> テーマの名称は「Classic Dark Theme Pack」
-    <p>背景色が暗めのダークテーマ。カラーバリエーションを増やしたパック。</p>
-  </details>
-
-  <details>
-    <summary>空の行を入れる プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-blank-line">GitHubで見る</a> プラグイン名は「Blank Line」
-    <p>選択したブロックまたはページの上または下に空行を、ショートカットキーで挿入します。</p>
-  </details>
-
-  <details>
-    <summary>以前の日付形式のための プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-legacy-date-format">GitHubで見る</a> プラグイン名は「Legacy Date Format」
-    <p>旧式の日付フォーマットの使用を可能にするために置換またはリダイレクトします。非アクティブなリンクをジャーナル属性として置換します。これらはリンクと参照の両方として機能します。</p>
-  </details>
-
-  <details>
-    <summary>柔軟な日付形式のための プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-flex-date-format">GitHubで見る</a> プラグイン名は「Flex Date Format」
-    <p>日付フォーマットをローカライズします。または選択したフォーマットのスタイルに切り替えます。</p>
-  </details>
-
-  <details>
-    <summary>2 ホップリンク プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-two-hop-link">GitHubで見る</a> プラグイン名は「2 Hop Link」
-    <p>ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。</p>
-  </details>
-
-  <details>
-    <summary>左サイドバー強化 プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance">GitHubで見る</a> プラグイン名は「Left Sidebar Enhance」
-    <p>マウスオーバーで左サイドバーを表示します。</p>
+    <summary>サイドブロック プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a> プラグイン名は「Side Block」
+    <p>子ブロックを親ブロックの隣に配置します。</p>
   </details>
 
   <details>
@@ -73,9 +37,45 @@
   </details>
 
   <details>
-    <summary>サイドブロック プラグイン</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a> プラグイン名は「Side Block」
-    <p>子ブロックを親ブロックの隣に配置します。</p>
+    <summary>左サイドバー強化 プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance">GitHubで見る</a> プラグイン名は「Left Sidebar Enhance」
+    <p>マウスオーバーで左サイドバーを表示します。</p>
+  </details>
+
+  <details>
+    <summary>2 ホップリンク プラグイン 🚀</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-two-hop-link">GitHubで見る</a> プラグイン名は「2 Hop Link」
+    <p>ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。</p>
+  </details>
+
+  <details>
+    <summary>柔軟な日付形式のための プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-flex-date-format">GitHubで見る</a> プラグイン名は「Flex Date Format」
+    <p>日付フォーマットをローカライズします。または選択したフォーマットのスタイルに切り替えます。</p>
+  </details>
+
+  <details>
+    <summary>以前の日付形式のための プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-legacy-date-format">GitHubで見る</a> プラグイン名は「Legacy Date Format」
+    <p>旧式の日付フォーマットの使用を可能にするために置換またはリダイレクトします。非アクティブなリンクをジャーナル属性として置換します。これらはリンクと参照の両方として機能します。</p>
+  </details>
+
+  <details>
+    <summary>空の行を入れる プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-blank-line">GitHubで見る</a> プラグイン名は「Blank Line」
+    <p>選択したブロックまたはページの上または下に空行を、ショートカットキーで挿入します。</p>
+  </details>
+
+  <details>
+    <summary>クラシック ダークテーマ パック</summary>
+    <a href="https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack">GitHubで見る</a> テーマの名称は「Classic Dark Theme Pack」
+    <p>背景色が暗めのダークテーマ。カラーバリエーションを増やしたパック。</p>
+  </details>
+
+  <details>
+    <summary>複数のファイルをアセットに入れる📂 プラグイン</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-multiple-assets">GitHubで見る</a> プラグイン名は「Multiple Files into Assets」
+    <p>複数のファイルをアセットに保存し、コンテンツに埋め込むかリンクします。</p>
   </details>
 
   <details>
@@ -101,7 +101,7 @@
   </details>
 
   <details>
-    <summary>ページ名の階層を省略する プラグイン 🇯🇵</summary>
+    <summary>ページ名の階層を省略する プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-short-namespaces">GitHubで見る</a> プラグイン名は「Short Namespaces」
     長くなりがちな、階層をもつリンクを省略して表示します.
   </details>
@@ -113,7 +113,7 @@
   </details>
 
   <details>
-    <summary>曜日と週番号の プラグイン 🇯🇵</summary>
+    <summary>曜日と週番号の プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number">GitHubで見る</a> プラグイン名は「Show Weekday and Week-number」
     日付タイトルの横に、曜日と週番号を表示します.
     <details>
@@ -122,7 +122,7 @@
   </details>
 
   <details>
-    <summary>曜日ごとのテンプレート プラグイン 🇯🇵</summary>
+    <summary>曜日ごとのテンプレート プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends">GitHubで見る</a> プラグイン名は「Weekdays and Weekends (Template)」
     平日と週末、祝日用に、日誌テンプレートを切り替えます。
   </details>
@@ -131,30 +131,30 @@
     <summary>📍ポップアップ プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-sticky-popup">GitHubで見る</a> プラグイン名は「Sticky Popup」
     <ul>
-      <li>移動可能なポップアップ内で選択したテキストを表示し、カレンダーを配置します。</li>
+      <li>移動可能なポップアップ内で選択したテキストを表示し、Block Calendarプラグインのカレンダーを自由な位置に配置します。</li>
       <li>曜日ごとにユーザーメッセージを表示し、期限切れのタスクに関するリマインダー機能を追加します。ジャーナルテンプレートが読み込まれると、表示されます。</li>
     </ul>
   </details>
 
   <details>
-    <summary>🌱機能開発用 プラグイン 🇯🇵</summary>
+    <summary>🌱機能開発用 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-some-menu-extender">GitHubで見る</a> プラグイン名は「Innovation Lab」
     <ul>
       <li>現在開発中のいくつかの機能や他のプラグインのバグ修正バージョンを提供します。</li>
     </ul>
   </details>
 
-### 2022年にリリース
+- 2022年にリリース
 
   <details>
-  <summary>🎨パネルカラーリング プラグイン 🇯🇵</summary>
+  <summary>🎨パネルカラーリング プラグイン 🚀</summary>
   <a href="https://github.com/YU000jp/logseq-plugin-panel-coloring">GitHubで見る</a> プラグイン名は「Panel Coloring」
   <ul>
     <li>特定のページや、特定のタグをもつブロック に色をつけます。</li>
   </ul>
   </details>
   <details>
-    <summary>ページタグと階層 プラグイン 🇯🇵</summary>
+    <summary>ページタグと階層 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy」
     <ul>
       <li>ページタイトルの階層をリンクとして分割</li>
@@ -162,7 +162,7 @@
     </ul>
   </details>
   <details>
-    <summary>カラムレイアウト プラグイン 🇯🇵</summary>
+    <summary>カラムレイアウト プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/Logseq-column-Layout">GitHubで見る</a> プラグイン名は「Column Layout」
     <ul>
       <li>日誌のためのページビューUI: 日誌ページで、日誌(ジャーナル)、"Lined References"、日誌クエリーを横並びにして配置します。</li>
