@@ -22,18 +22,21 @@
     <summary>箇条書きのカスタムアイコン プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon">GitHubで見る</a> プラグイン名は「Bullet Point Custom Icon」
     <p>タグがついたブロック(箇条書き)にカスタムアイコンを適用します。Tablerアイコンまたは絵文字を選択できます。</p>
+    <img src="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon/assets/111847207/99beeaaa-7c17-4d76-98fc-05e65e2dbd8b" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
     <summary>箇条書きブロックを左右に配置する プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a> プラグイン名は「Side Block」
     <p>左右に箇条書きブロックを配置するプラグインです。親ブロックにタグをつけるとその隣に、その子孫ブロックを配置します。</p>
+    <img src="https://github.com/YU000jp/logseq-plugin-side-block/assets/111847207/c85ebc5e-9442-42c0-bac5-1616203483ca" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
-    <summary>参照ガイド プラグイン</summary>
+    <summary>ブロック参照 補助 プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-reference-guide">GitHubで見る</a> プラグイン名は「Reference Guide」
-    <p>参照ページのサイズをすべての参照の隣に表示します。</p>
+    <p>ブロック参照に対して、そのサイズを表示します。</p>
+    <img src="https://github.com/YU000jp/logseq-plugin-reference-guide/assets/111847207/1a4c441b-8e17-479c-9ee9-6c70a3a1d9f8" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
@@ -46,6 +49,7 @@
     <summary>2 ホップリンク プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-two-hop-link">GitHubで見る</a> プラグイン名は「2 Hop Link」
     <p>ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。</p>
+    <img src="https://github.com/YU000jp/logseq-plugin-two-hop-link/assets/111847207/e50711c1-0401-4d8a-af46-9b9e1bd49af2" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
