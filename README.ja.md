@@ -77,7 +77,7 @@
   </details>
 
   <details>
-    <summary>複数のファイルをアセットに入れる📂 プラグイン</summary>
+    <summary>複数のファイルをアセットに入れる📂 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-multiple-assets">GitHubで見る</a> プラグイン名は「Multiple Files into Assets」
     <p>複数のファイルをアセットに保存し、コンテンツに埋め込むかリンクします。</p>
   </details>
