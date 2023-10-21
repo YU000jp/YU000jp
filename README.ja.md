@@ -175,7 +175,7 @@
   </ul>
   </details>
   <details>
-    <summary>ページタグと階層 (UI) プラグイン 🚀</summary>
+    <summary>ページタグと階層のためのUI プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy」
     <ul>
       <li>ページタイトルの階層をリンクとして分割</li>
