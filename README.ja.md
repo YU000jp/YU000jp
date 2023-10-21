@@ -55,7 +55,7 @@
   <details>
     <summary>柔軟な日付形式のための プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-flex-date-format">GitHubで見る</a> プラグイン名は「Flex Date Format」
-    <p>日付フォーマットを日本語にします。表示するフォーマットとマークダウンに記録されるフォーマットを分離します。</p>
+    <p>表示するフォーマットとマークダウンに記録されるフォーマットを分離します。</p>
   </details>
 
   <details>
