@@ -141,7 +141,7 @@
   </details>
 
   <details>
-    <summary>🌱機能公開開発用 プラグイン 🚀</summary>
+    <summary>🌱開発途上の機能を公開する プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-some-menu-extender">GitHubで見る</a> プラグイン名は「Innovation Lab」
     <ul>
       <li>現在開発中のいくつかの機能 や 他のプラグインのバグ修正バージョン を提供します。</li>
