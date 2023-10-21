@@ -53,15 +53,15 @@
   </details>
 
   <details>
-    <summary>柔軟な日付形式のための プラグイン</summary>
+    <summary>日付形式を柔軟に表示するための プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-flex-date-format">GitHubで見る</a> プラグイン名は「Flex Date Format」
-    <p>表示するフォーマットとマークダウンに記録されるフォーマットを分離します。</p>
+    <p>表示するフォーマットとマークダウンに記録されるフォーマットを分離します。また、曜日などをローカライズ(日本語表記)にします。</p>
   </details>
 
   <details>
-    <summary>以前の日付形式のための プラグイン</summary>
+    <summary>記録の日付形式を変更するための プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-legacy-date-format">GitHubで見る</a> プラグイン名は「Legacy Date Format」
-    <p>Logseqでは日付フォーマットを変更した後に、日付リンクが更新されず、そのリンクが無効になります。そのリンクを置き換えて使用可能にするためのプラグインです。リダイレクトもできます。</p>
+    <p>通常、Logseqでは日付フォーマットを変更した後に、日付リンクが更新されず、そのリンクが無効になります。そのリンクを置き換えて使用可能にするためのプラグインです。リダイレクトもできます。</p>
   </details>
 
   <details>
@@ -96,7 +96,7 @@
   </details>
 
   <details>
-    <summary>🔗ハイパーリンク用 プラグイン</summary>
+    <summary>🔗ハイパーリンク用 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink">GitHubで見る</a> プラグイン名は「Confirmation HyperLink」
     <p>URLを貼り付けてハイパーリンクを作成します。通常、URLのままですが、ページのタイトルを取得します。URLを貼り付けたときに、ダイアログが出ます。</p>
     <details>
