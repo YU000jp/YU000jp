@@ -28,7 +28,7 @@
   <details>
     <summary>箇条書きブロックを左右に配置する プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a> プラグイン名は「Side Block」
-    <p>左右に箇条書きブロックを配置するプラグインです。親ブロックにタグをつけるとその隣に、その子孫ブロックを配置します。</p>
+    <p>左右に、箇条書きブロックを配置するプラグインです。親ブロックにタグをつけるとその隣に、その子孫ブロックを配置します。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-side-block/assets/111847207/c85ebc5e-9442-42c0-bac5-1616203483ca" style="max-width:400px;max-height:400px"/>
   </details>
 
@@ -42,36 +42,36 @@
   <details>
     <summary>左サイドバー強化 プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance">GitHubで見る</a> プラグイン名は「Left Sidebar Enhance」
-    <p>マウスオーバーで左サイドバーを表示します。</p>
+    <p>左サイドバーをマウスオーバーで表示します。</p>
   </details>
 
   <details>
     <summary>2 ホップリンク プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-two-hop-link">GitHubで見る</a> プラグイン名は「2 Hop Link」
-    <p>ページコンテンツの底部にリンクのコレクションを表示します。発信リンクを収集し、さらなるリンクを生成します。</p>
+    <p>ページコンテンツの底に、リンクのコレクションを表示します。そのコンテンツに含まれているリンクを収集し、さらなるリンクを生成します。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-two-hop-link/assets/111847207/e50711c1-0401-4d8a-af46-9b9e1bd49af2" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
     <summary>柔軟な日付形式のための プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-flex-date-format">GitHubで見る</a> プラグイン名は「Flex Date Format」
-    <p>日付フォーマットをローカライズします。または選択したフォーマットのスタイルに切り替えます。</p>
+    <p>日付フォーマットを日本語にします。表示するフォーマットとマークダウンに記録されるフォーマットを分離します。</p>
   </details>
 
   <details>
     <summary>以前の日付形式のための プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-legacy-date-format">GitHubで見る</a> プラグイン名は「Legacy Date Format」
-    <p>旧式の日付フォーマットの使用を可能にするために置換またはリダイレクトします。非アクティブなリンクをジャーナル属性として置換します。これらはリンクと参照の両方として機能します。</p>
+    <p>Logseqでは日付フォーマットを変更した後に、日付リンクが更新されず、そのリンクが無効になります。そのリンクを置き換えて使用可能にするためのプラグインです。リダイレクトもできます。</p>
   </details>
 
   <details>
     <summary>空の行を入れる プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-blank-line">GitHubで見る</a> プラグイン名は「Blank Line」
-    <p>選択したブロックまたはページの上または下に空行を、ショートカットキーで挿入します。</p>
+    <p>選択したブロックや ページのに空の行を、ショートカットキーで挿入します。</p>
   </details>
 
   <details>
-    <summary>クラシック ダークテーマ パック</summary>
+    <summary>クラシック ダークテーマ パック 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack">GitHubで見る</a> テーマの名称は「Classic Dark Theme Pack」
     <p>背景色が暗めのダークテーマ。カラーバリエーションを増やしたパック。</p>
   </details>
