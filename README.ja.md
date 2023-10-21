@@ -92,7 +92,7 @@
   <details>
     <summary>💪DONEタスク用 プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-confirmation-done-task">GitHubで見る</a> プラグイン名は「Confirmation DONE task」
-    <p>タスクが完了としてマークされた場合、確認ダイアログが表示され、ブロックに日付が追加されます。</p>
+    <p>タスクをDONEにしたとき、確認ダイアログが表示されます。日付付きのプロパティが、ブロックに追加されます。</p>
   </details>
 
   <details>
