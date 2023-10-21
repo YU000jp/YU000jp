@@ -160,7 +160,7 @@
 - 2022年にリリース
 
   <details>
-  <summary>🎨パネルカラーリング プラグイン 🚀</summary>
+  <summary>🎨ブロックやページに色をつける プラグイン 🚀</summary>
   <a href="https://github.com/YU000jp/logseq-plugin-panel-coloring">GitHubで見る</a> プラグイン名は「Panel Coloring」
   <ul>
     <li>特定のページや、特定のタグをもつブロック に色をつけます。</li>
