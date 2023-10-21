@@ -183,7 +183,7 @@
     </ul>
   </details>
   <details>
-    <summary>カラムレイアウト プラグイン 🚀</summary>
+    <summary>カラムレイアウトUI プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/Logseq-column-Layout">GitHubで見る</a> プラグイン名は「Column Layout」
     <ul>
       <li>日誌のためのページビューUI: 日誌ページで、日誌(ジャーナル)、"Lined References"、日誌クエリーを横並びにして配置します。</li>
