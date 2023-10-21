@@ -179,7 +179,7 @@
     <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy」
     <ul>
       <li>ページタイトルの階層をリンクとして分割</li>
-      <li>ページビューUI用のページタグと階層</li>
+      <li>ページビューUI: 通常、コンテンツ内に置かれているページタグと階層を、それとは異なる位置に配置します。</li>
     </ul>
   </details>
   <details>
