@@ -175,7 +175,7 @@
   </ul>
   </details>
   <details>
-    <summary>ページタグと階層のためのUI プラグイン 🚀</summary>
+    <summary>ページタグと階層のための ページUI プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy」
     <ul>
       <li>ページタイトルの階層をリンクとして分割</li>
@@ -183,7 +183,7 @@
     </ul>
   </details>
   <details>
-    <summary>カラムレイアウトUI プラグイン 🚀</summary>
+    <summary>カラムレイアウト 日誌UI プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/Logseq-column-Layout">GitHubで見る</a> プラグイン名は「Column Layout」
     <ul>
       <li>日誌のためのページビューUI: 日誌ページで、日誌(ジャーナル)、"Lined References"、日誌クエリーを横並びにして配置します。</li>
