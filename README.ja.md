@@ -40,7 +40,7 @@
   </details>
 
   <details>
-    <summary>左サイドバー強化 プラグイン</summary>
+    <summary>左サイドバー強化 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance">GitHubで見る</a> プラグイン名は「Left Sidebar Enhance」
     <p>左サイドバーをマウスオーバーで表示します。</p>
   </details>
@@ -83,7 +83,7 @@
   </details>
 
   <details>
-    <summary>箇条書きスタイル変更🔷 プラグイン</summary>
+    <summary>箇条書きスタイル変更🔷 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-style">GitHubで見る</a> プラグイン名は「Bullet Point Style」
     <p>箇条書きのスタイルと色を変更します。</p>
   </details>
