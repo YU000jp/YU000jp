@@ -19,14 +19,14 @@
   > 上から新しい順
 
   <details>
-    <summary>箇条書きのカスタムアイコン プラグイン</summary>
+    <summary>箇条書きのカスタムアイコン プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon">GitHubで見る</a> プラグイン名は「Bullet Point Custom Icon」
     <p>タグがついたブロック(箇条書き)にカスタムアイコンを適用します。Tablerアイコンまたは絵文字を選択できます。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon/assets/111847207/99beeaaa-7c17-4d76-98fc-05e65e2dbd8b" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
-    <summary>箇条書きブロックを左右に配置する プラグイン</summary>
+    <summary>箇条書きブロックを左右に配置する プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a> プラグイン名は「Side Block」
     <p>左右に箇条書きブロックを配置するプラグインです。親ブロックにタグをつけるとその隣に、その子孫ブロックを配置します。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-side-block/assets/111847207/c85ebc5e-9442-42c0-bac5-1616203483ca" style="max-width:400px;max-height:400px"/>
