@@ -92,52 +92,51 @@
   <details>
     <summary>💪DONEタスク用 プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-confirmation-done-task">GitHubで見る</a> プラグイン名は「Confirmation DONE task」
-    タスクが完了としてマークされた場合、確認ダイアログが表示され、ブロックに日付が追加されます。
+    <p>タスクが完了としてマークされた場合、確認ダイアログが表示され、ブロックに日付が追加されます。</p>
   </details>
 
   <details>
     <summary>🔗ハイパーリンク用 プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink">GitHubで見る</a> プラグイン名は「Confirmation HyperLink」
-    URLを貼り付けて確認ダイアログを介してページのタイトルを取得し、Markdownハイパーリンクを作成します。
+    <p>URLを貼り付けてハイパーリンクを作成します。通常、URLのままですが、ページのタイトルを取得します。URLを貼り付けたときに、ダイアログが出ます。</p>
     <details>
-      <summary>オンラインPDFをアセットに変換</summary>
-      PDFのURLを貼り付けると、必要に応じてタイトルの編集が可能なダイアログが表示されます。確認後、専用のMarkdown形式に変換され、アセットとして保存されます。
+      <summary>オンラインPDFをアセットに置く</summary>
+      <p>通常、PDFのURLを貼り付けると、オンラインURLのままそのリンクがその場に作成されますが、アセットには保存されません。そうではなくアセットに保存し、そのリンクを作成します。</p>
     </details>
   </details>
 
   <details>
     <summary>ページ名の階層を省略する プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-short-namespaces">GitHubで見る</a> プラグイン名は「Short Namespaces」
-    長くなりがちな、階層をもつリンクを省略して表示します.
+    <p>長くなりがちな、階層(/スラッシュ区切り)をもつページへのリンクやタグを省略して表示します。</p>
   </details>
 
   <details>
     <summary>PARAメソッド プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-quickly-para-method">GitHubで見る</a> プラグイン名は「Quickly PARA method」
-    PARAメソッドのワークフローを提供します。ページタグ プロパティに追加します。
+    <p>多くなりがちなページを、PARAメソッドで整理するのに役立つ、ワークフローを提供します。<br/>
+    ページタグ プロパティを使って、PARAメソッド用のページに、リンクします。</p>
   </details>
 
   <details>
     <summary>曜日と週番号の プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number">GitHubで見る</a> プラグイン名は「Show Weekday and Week-number」
     日付タイトルの横に、曜日と週番号を表示します.
-    <details>
-      <summary>日誌にそのリンクを持つミニカレンダーを表示します。前後の日付にアクセスしたり、週刊レビューと月刊レビューのページへのリンクが提供されます。</summary>
-    </details>
+    <p>日誌にそのリンクを持つミニカレンダーを表示します。前後の日付にアクセスしたり、週刊レビューと月刊レビューのページへのリンクが提供されます。</p>
   </details>
 
   <details>
     <summary>曜日ごとのテンプレート プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends">GitHubで見る</a> プラグイン名は「Weekdays and Weekends (Template)」
-    平日と週末、祝日用に、日誌テンプレートを切り替えます。
+    <p>平日と週末、祝日それぞれに日誌テンプレートを設定します。曜日や日付ごとに指定するなど、柔軟に設定できます。</p>
   </details>
 
   <details>
     <summary>📍ポップアップ プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-sticky-popup">GitHubで見る</a> プラグイン名は「Sticky Popup」
     <ul>
-      <li>移動可能なポップアップ内で選択したテキストを表示し、Block Calendarプラグインのカレンダーを自由な位置に配置します。</li>
-      <li>曜日ごとにユーザーメッセージを表示し、期限切れのタスクに関するリマインダー機能を追加します。ジャーナルテンプレートが読み込まれると、表示されます。</li>
+      <li>移動可能なポップアップを表示します。Block Calendarプラグインのカレンダーを自由な位置に配置します。</li>
+      <li>曜日ごとにユーザーメッセージを表示します。</li>
     </ul>
   </details>
 
