@@ -140,7 +140,16 @@
     <summary>🌱機能開発用 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-some-menu-extender">GitHubで見る</a> プラグイン名は「Innovation Lab」
     <ul>
-      <li>現在開発中のいくつかの機能や他のプラグインのバグ修正バージョンを提供します。</li>
+      <li>現在開発中のいくつかの機能 や 他のプラグインのバグ修正バージョン を提供します。</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>📚楽天ブックス プラグイン 🚀</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-rakuten-books">GitHubで見る</a> プラグイン名は「Rakuten-Books」
+    <ul>
+      <li>楽天ブックス あるいは 楽天Kobo のデータベースを検索し、Logseq にタイトルページを作成するプラグイン。</li>
+      <li>楽天アカウント は不要です。</li>
     </ul>
   </details>
 
@@ -151,6 +160,14 @@
   <a href="https://github.com/YU000jp/logseq-plugin-panel-coloring">GitHubで見る</a> プラグイン名は「Panel Coloring」
   <ul>
     <li>特定のページや、特定のタグをもつブロック に色をつけます。</li>
+  </ul>
+  </details>
+    <details>
+  <summary>📚ブクログ用インポート プラグイン (🚀 ※非推奨)</summary>
+  <a href="https://github.com/YU000jp/logseq-plugin-booklog-jp-import">GitHubで見る</a> プラグイン名は「booklog-jp-import」
+  <ul>
+    <li>ブクログのエクスポートファイルををもとに、まとめて書籍のタイトルページを作成するプラグイン</li>
+    <li><small>⚠️書影カバー画像が取得できないことが多くなってしまいました。その代替手段が見つかりません。現在は一部、カバー画像なしでの利用になります。</small></li>
   </ul>
   </details>
   <details>
