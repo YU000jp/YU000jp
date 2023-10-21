@@ -25,9 +25,9 @@
   </details>
 
   <details>
-    <summary>サイドブロック プラグイン</summary>
+    <summary>箇条書きブロックを左右に配置する プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a> プラグイン名は「Side Block」
-    <p>子ブロックを親ブロックの隣に配置します。</p>
+    <p>左右に箇条書きブロックを配置するプラグインです。親ブロックにタグをつけるとその隣に、その子孫ブロックを配置します。</p>
   </details>
 
   <details>
