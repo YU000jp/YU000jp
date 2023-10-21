@@ -35,7 +35,7 @@
   <details>
     <summary>ブロック参照 補助 プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-reference-guide">GitHubで見る</a> プラグイン名は「Reference Guide」
-    <p>ブロック参照に対して、そのサイズを表示します。</p>
+    <p>各ブロック参照のサイズを表示します。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-reference-guide/assets/111847207/1a4c441b-8e17-479c-9ee9-6c70a3a1d9f8" style="max-width:400px;max-height:400px"/>
   </details>
 
