@@ -21,7 +21,7 @@
   <details>
     <summary>箇条書きのカスタムアイコン プラグイン</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon">GitHubで見る</a> プラグイン名は「Bullet Point Custom Icon」
-    <p>特定のタグ付きの箇条書きにカスタムアイコンを使用できます。Tablerアイコンまたは絵文字を選択できます。</p>
+    <p>タグがついたブロック(箇条書き)にカスタムアイコンを適用します。Tablerアイコンまたは絵文字を選択できます。</p>
   </details>
 
   <details>
