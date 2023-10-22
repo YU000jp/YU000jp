@@ -59,7 +59,7 @@
   </details>
 
   <details>
-    <summary>記録の日付形式を変更するための プラグイン 🚀(READMEのみ)</summary>
+    <summary>記録の日付形式を変更するための プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-legacy-date-format">GitHubで見る</a> プラグイン名は「Legacy Date Format」
     <p>通常、Logseqでは日付フォーマットを変更した後に、日付リンクが更新されず、そのリンクが無効になります。そのリンクを置き換えて使用可能にするためのプラグインです。リダイレクトもできます。</p>
   </details>
