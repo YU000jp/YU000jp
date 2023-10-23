@@ -112,7 +112,7 @@
   </details>
 
   <details>
-    <summary>PARAメソッド プラグイン</summary>
+    <summary>PARAメソッド プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-quickly-para-method">GitHubで見る</a> プラグイン名は「Quickly PARA method」
     <p>多くなりがちなページを、PARAメソッドで整理するのに役立つ、ワークフローを提供します。<br/>
     ページタグ プロパティを使って、PARAメソッド用のページに、リンクします。</p>
