@@ -22,6 +22,7 @@ Enhance Logseq Page View UI:
 development stage 🚧🦺 -->
 ### Released in 2023
 
+1. [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json) 🆕 (To translate plugins)
 1. [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json) 🆕 (To translate plugins)
 1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
 1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) 🆕
