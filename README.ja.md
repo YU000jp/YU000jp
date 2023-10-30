@@ -184,7 +184,7 @@
     <summary>ページタグと階層のための ページUI プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy」
     <ul>
-      <li>階層をもつページタイトルを分割して そのリンクを作成します</li>
+      <li>階層をもつページ名を分割して そのリンクを作成します</li>
       <li>ページビューUI: 通常、コンテンツ内に置かれているページタグと階層を、それとは異なる位置に配置します。</li>
     </ul>
   </details>
