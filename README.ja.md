@@ -1,12 +1,12 @@
 ## ようこそ 👋 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
 
-- YU (YU000jp) は [Logseq](https://github.com/logseq) プラグインを作っている人です！ ほかのプラグインの翻訳もおこなっています。
+- YU (YU000jp) は [Logseq](https://github.com/logseq) プラグインを作っている人です！ ほかのプラグインの改善や翻訳もおこなっています。
 
 ---
 
 > 以下、日本語対応が完了したものには 🚀マークがついています
 
-#### 日本語に翻訳したプラグイン一覧
+#### 改善や翻訳をおこなったプラグイン
 
   1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🚀
   1. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
@@ -14,7 +14,7 @@
   1. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🚀
   1. [脚注プレビュー プラグイン](https://github.com/b-yp/logseq-preview-footnote) 🚀
 
-#### 私が作成したプラグイン一覧
+#### 製作したプラグイン
 
 - 2023年にリリース
   > 上から新しい順
