@@ -12,6 +12,7 @@
   1. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
   1. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 🚀
   1. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🚀
+  1. [脚注プレビュー プラグイン](https://github.com/b-yp/logseq-preview-footnote) 🚀
 
 #### 私が作成したプラグイン一覧
 
