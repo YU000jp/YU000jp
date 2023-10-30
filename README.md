@@ -6,17 +6,10 @@
 
 ---
 
-## Suggested for Logseq user ⭐
-
-Enhance task manegement: **[How to customize default queries on Logseq](https://github.com/YU000jp/logseq-default-queries-journals)**
-
-Enhance Logseq Page View UI:
-   1. For Journals, [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
-   1. For content pages, [Page-tags and Hierarchy plugin **Wide view mode**](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
-
----
-
 ## My products history
+
+Logseq Plugin, Theme..
+
 <!-- ### Now
 
 development stage 🚧🦺 -->
