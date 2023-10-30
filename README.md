@@ -15,8 +15,8 @@ Logseq Plugin, Theme..
 development stage 🚧🦺 -->
 ### Released in 2023
 
-1. [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json) 🆕 (To translate plugins)
-1. [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json) 🆕 (To translate plugins)
+1. For plugin dev > Translate > [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json) 🆕
+1. For plugin dev > Translate > [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json) 🆕
 1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
 1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) 🆕
 1. [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
