@@ -10,9 +10,11 @@
 
 Logseq Plugin, Theme..
 
-<!-- ### Now
+### Development stage 🚧🦺
 
-development stage 🚧🦺 -->
+1. [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image)
+1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date)
+
 ### Released in 2023
 
 1. For plugin dev > Translate > [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json) 🆕
