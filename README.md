@@ -12,7 +12,7 @@ Logseq Plugin, Theme..
 
 ### Development stage 🚧🦺
 
-1. [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image)
+1. [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image)
 1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date)
 
 ### Released in 2023
