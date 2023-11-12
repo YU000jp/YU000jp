@@ -42,8 +42,8 @@ Logseq Plugin, Theme..
 ### Released in 2022
 
 1. 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
-1. [Page-tags and Hierarchy plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
-1. [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout)
+1. [Page-tags and Hierarchy (Page UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
+1. [Column Layout (Journals UI) plugin](https://github.com/YU000jp/Logseq-column-Layout)
 
 ---
 
