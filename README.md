@@ -34,7 +34,7 @@ Logseq Plugin, Theme..
 1. [🔗URL Hyperlink plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
 1. [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
 1. [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
-1. [📆Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+1. [📆Show weekday and week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
 1. [🛌More journal templates plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
 1. [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
 1. [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
