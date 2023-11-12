@@ -13,20 +13,20 @@ Logseq Plugin, Theme..
 ### Development stage 🚧🦺
 
 1. [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image)
-1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date)
 
 ### Released in 2023
 
-1. For plugin dev > Translate > [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json) 🆕
-1. For plugin dev > Translate > [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json) 🆕
-1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) 🆕
-1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) 🆕
+1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date) 🆕
+1. For plugin dev > Translate > [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json)
+1. For plugin dev > Translate > [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json)
+1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
+1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
 1. [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
 1. [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
 1. [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
 1. [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
 1. [Legacy date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
-1. [🦢Blank line plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
+1. [🦢Blank line Shortcut plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
 1. [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
 1. [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
 1. [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
