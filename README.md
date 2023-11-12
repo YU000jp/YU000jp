@@ -21,7 +21,7 @@ Logseq Plugin, Theme..
 1. For plugin dev > Translate > [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json)
 1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
 1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
-1. [Reference guide plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
+1. [More Reference plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
 1. [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
 1. [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
 1. [Flex date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
@@ -35,7 +35,7 @@ Logseq Plugin, Theme..
 1. [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
 1. [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
 1. [📆Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-1. [🛌Weekdays and Holidays (Templates) plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
+1. [🛌More journal templates plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
 1. [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
 1. [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
 
