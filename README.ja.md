@@ -35,7 +35,7 @@
 
   <details>
     <summary>ブロック参照 サイズ表示 プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-reference-guide">GitHubで見る</a> プラグイン名は「Reference Guide」
+    <a href="https://github.com/YU000jp/logseq-plugin-reference-guide">GitHubで見る</a> プラグイン名は「More Reference」
     <p>各ブロック参照のサイズを表示します。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-reference-guide/assets/111847207/1a4c441b-8e17-479c-9ee9-6c70a3a1d9f8" style="max-width:400px;max-height:400px"/>
   </details>
@@ -133,7 +133,7 @@
 
   <details>
     <summary>曜日ごとのテンプレート プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends">GitHubで見る</a> プラグイン名は「Weekdays and Weekends (Template)」
+    <a href="https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends">GitHubで見る</a> プラグイン名は「More journal templates」
     <p>平日と週末、祝日それぞれに日誌テンプレートを設定します。曜日や日付ごとに指定するなど、柔軟に設定できます。</p>
   </details>
 
@@ -182,7 +182,7 @@
   </details>
   <details>
     <summary>ページタグと階層のための ページUI プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy」
+    <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a> プラグイン名は「Page-tags and Hierarchy (Page UI)」
     <ul>
       <li>階層をもつページ名を分割して そのリンクを作成します</li>
       <li>ページビューUI: 通常、コンテンツ内に置かれているページタグと階層を、それとは異なる位置に配置します。</li>
@@ -190,7 +190,7 @@
   </details>
   <details>
     <summary>カラムレイアウト 日誌UI プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/Logseq-column-Layout">GitHubで見る</a> プラグイン名は「Column Layout」
+    <a href="https://github.com/YU000jp/Logseq-column-Layout">GitHubで見る</a> プラグイン名は「Column Layout (Journals UI)」
     <ul>
       <li>日誌のためのページビューUI: 日誌、"Lined References"、日誌クエリーを横並びにして配置します。</li>
     </ul>
