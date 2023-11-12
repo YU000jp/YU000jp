@@ -66,7 +66,7 @@
   </details>
 
   <details>
-    <summary>空の行を入れる プラグイン 🚀</summary>
+    <summary>空行を入れるショートカット用 プラグイン 🚀</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-blank-line">GitHubで見る</a> プラグイン名は「Blank Line Shortcut」
     <p>選択したブロックや ページのに空の行を、ショートカットキーで挿入します。</p>
   </details>
