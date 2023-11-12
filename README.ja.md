@@ -92,13 +92,13 @@
 
   <details>
     <summary>💪DONEタスク用 プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-confirmation-done-task">GitHubで見る</a> プラグイン名は「Confirmation DONE task」
+    <a href="https://github.com/YU000jp/logseq-plugin-confirmation-done-task">GitHubで見る</a> プラグイン名は「DONE task property」
     <p>タスクをDONEにしたとき、確認ダイアログが表示されます。日付付きのプロパティが、ブロックに追加されます。</p>
   </details>
 
   <details>
     <summary>🔗ハイパーリンク用 プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink">GitHubで見る</a> プラグイン名は「Confirmation HyperLink」
+    <a href="https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink">GitHubで見る</a> プラグイン名は「URL HyperLink」
     <p>URLを貼り付けてハイパーリンクを作成します。通常、URLのままですが、ページのタイトルを取得します。URLを貼り付けたときに、ダイアログが出ます。</p>
     <details>
       <summary>オンラインPDFをアセットに置く</summary>
