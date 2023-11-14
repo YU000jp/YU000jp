@@ -20,10 +20,10 @@
   > 上から新しい順
 
   <details>
-    <summary>箇条書きのカスタムアイコン プラグイン 🚀</summary>
-    <a href="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon">GitHubで見る</a> プラグイン名は「Bullet Point Custom Icon」
-    <p>タグがついたブロック(箇条書き)にカスタムアイコンを適用します。Tablerアイコンまたは絵文字を選択できます。</p>
-    <img src="https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon/assets/111847207/99beeaaa-7c17-4d76-98fc-05e65e2dbd8b" style="max-width:400px;max-height:400px"/>
+    <summary>画像サイズ制限&プレビュー プラグイン 🚀</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-preview-image">GitHubで見る</a> プラグイン名は「Preview Image」
+    <p>Logseqでは、大きい画像はそのまま大きくスペースを占有してしまいます。そうならないように、ページコンテンツの中では小さく画像を表示します。</p>
+    <img src="https://user-images.githubusercontent.com/111847207/280522061-ad7cafe2-c449-4807-b14a-b5315c0a639e.gif" style="max-width:400px;max-height:400px"/>
   </details>
 
   <details>
