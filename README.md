@@ -49,8 +49,8 @@ Logseq Plugin, Theme..
 ![README stars](https://github-readme-stats.vercel.app/api?username=YU000jp&theme=graywhite)
 
 ## Connect with me
-* GitHub: [YU000jp](https://github.com/YU000jp)
-* Twitter: [@y0skyblue](https://twitter.com/y0skyblue)
+* GitHub: [@YU000jp](https://github.com/YU000jp)
+* Twitter: [@YU000jp](https://twitter.com/YU000jp)
 * Discord: YU#5179 ([Logseq](https://discord.gg/logseq))
 * ブクログ: [Web本棚](https://booklog.jp/users/p510hv)
 
