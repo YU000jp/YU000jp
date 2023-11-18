@@ -12,7 +12,7 @@ Logseq Plugin, Theme..
 
 <!-- ### Development stage 🚧🦺 -->
 
-### Released in 2023
+### In 2023
 
 1. [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image) 🆕
 1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date) 🆕
@@ -38,7 +38,7 @@ Logseq Plugin, Theme..
 1. [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
 1. [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
 
-### Released in 2022
+### In 2022
 
 1. 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
 1. [Page-tags and Hierarchy (Page UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
