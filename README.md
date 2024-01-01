@@ -14,8 +14,8 @@ Logseq Plugin, Theme..
 
 ### In 2023
 
-1. [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image) 🆕
-1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date) 🆕
+1. [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image)
+1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date)
 1. For plugin dev > Translate > [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json)
 1. For plugin dev > Translate > [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json)
 1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
