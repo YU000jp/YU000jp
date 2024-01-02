@@ -10,7 +10,9 @@
 
 Logseq Plugin, Theme..
 
-<!-- ### Development stage 🚧🦺 -->
+### Development stage 🚧🦺
+
+1. [Single Journal plugin](https://github.com/YU000jp/logseq-plugin-single-journal) 20240102
 
 ### In 2023
 
