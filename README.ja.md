@@ -16,6 +16,16 @@
 
 #### 製作したプラグイン
 
+- 2024年にリリース
+  > 上から新しい順
+
+  <details>
+    <summary>シングル日誌 プラグイン 🚀</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-single-journal">GitHubで見る</a> プラグイン名は「Single Journal」
+    <p>今日の日記だけを表示します。</p>
+  </details>
+
+
 - 2023年にリリース
   > 上から新しい順
 
