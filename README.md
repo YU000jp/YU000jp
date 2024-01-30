@@ -4,11 +4,13 @@
 
 - YU (YU000jp) is creating [Logseq](https://github.com/logseq) plugin
 
+- Support: <a href="https://www.buymeacoffee.com/yu000japan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=yu000japan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ---
 
 ## My products history
 
-Logseq Plugin, Theme..
+> Logseq Plugin, Theme..
 
 <!-- ### Development stage 🚧🦺 -->
 
@@ -51,15 +53,3 @@ Logseq Plugin, Theme..
 ---
 
 ![README stars](https://github-readme-stats.vercel.app/api?username=YU000jp&theme=graywhite)
-
-## Connect with me
-* GitHub: [@YU000jp](https://github.com/YU000jp)
-* Twitter: [@YU000jp](https://twitter.com/YU000jp)
-* Discord: YU#5179 ([Logseq](https://discord.gg/logseq))
-* ブクログ: [Web本棚](https://booklog.jp/users/p510hv)
-
-## Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer" title="Perl"> Perl (4/5)</a> <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-### Support
-<p><a href="https://www.buymeacoffee.com/yu000japan" title="Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yu000japan" /></a></p><br><br>
