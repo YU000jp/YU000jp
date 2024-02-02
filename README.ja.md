@@ -153,7 +153,7 @@
   </details>
 
   <details>
-    <summary>🌱Innovation Lab プラグイン 🚀 開発中の公開用</summary>
+    <summary>🌱Logseq Power Toys (旧 Innovation Lab) プラグイン 開発中の公開用</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-some-menu-extender">GitHubで見る</a>
     <ul>
       <li>現在開発中のいくつかの機能 や 他のプラグインのバグ修正バージョン を提供します。</li>
