@@ -31,7 +31,7 @@
 1. [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
 1. [Flexible date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
 1. [Old date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
-1. [🦢Blank line Shortcut plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
+1. [🦢New line Shortcut plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
 1. [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
 1. [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
 1. [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
