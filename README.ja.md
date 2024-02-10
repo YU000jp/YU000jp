@@ -73,7 +73,7 @@
   </details>
 
   <details>
-    <summary>Blank Line Shortcut プラグイン 🚀 空の行を挿入するためのショートカット</summary>
+    <summary>New Line Shortcut プラグイン 🚀 空の行を挿入するためのショートカット</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-blank-line">GitHubで見る</a>
     <p>選択したブロックや ページのに空の行を、ショートカットキーで挿入します。</p>
   </details>
