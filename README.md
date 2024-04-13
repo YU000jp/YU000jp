@@ -8,11 +8,16 @@
 
 ---
 
+
+## development stage 🚧🦺 2024
+
+1. [Logseq Classic (app)](https://github.com/YU000jp/fork-logseq)
+
+---
+
 ## My products history
 
 > Logseq Plugin, Theme..
-
-<!-- ### Development stage 🚧🦺 -->
 
 ### In 2024
 
