@@ -12,7 +12,6 @@
 ## development stage 🚧🦺 2024
 
 1. [Logseq Classic (app)](https://github.com/YU000jp/fork-logseq)
-1. [📚Google Books plugin](https://github.com/YU000jp/logseq-plugin-google-books) 20240602
 
 ---
 
@@ -22,6 +21,7 @@
 
 ### In 2024
 
+1. [📚Google Books plugin](https://github.com/YU000jp/logseq-plugin-google-books) 20240602
 1. [Single Journal plugin](https://github.com/YU000jp/logseq-plugin-single-journal) 20240102
 
 ### In 2023
