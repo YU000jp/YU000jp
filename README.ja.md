@@ -20,6 +20,11 @@
 - 2024年
 
   <details>
+    <summary>Default Template プラグイン 🚀 ページテンプレートを自動的に適用します。</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-default-template">GitHubで見る</a>
+  </details>
+  
+  <details>
     <summary>Google Books プラグイン 🚀 Google Books APIを活用して、書籍ページ作成 (アカウント不要)</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-google-books">GitHubで見る</a>
   </details>
