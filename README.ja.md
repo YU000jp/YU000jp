@@ -1,30 +1,33 @@
 <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
 
-- YU (YU000jp) は [Logseq](https://github.com/logseq) 用のプラグインを作っている日本人です！ ほかのプラグインの改良や翻訳もおこなっています。
+- YU (YU000jp) は [Logseq](https://github.com/logseq) 用のプラグインを作っています！ ほかのプラグインの改良や翻訳もおこなっています。
 
 - ご支援: <a href="https://www.buymeacoffee.com/yu000japan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=yu000japan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 ---
 
-> 以下、日本語対応が完了したものには 🚀マークがついています
 
 #### 改善や翻訳をおこなったプラグイン
 
   1. [アセット＋ プラグイン](https://github.com/xyhp915/logseq-assets-plus) 🚀
-  1. [スマートサーチ プラグイン](https://github.com/YU000jp/logseq-plugin-smartsearch) 承認待ち
   1. [logseq-Omnivore プラグイン](https://github.com/YU000jp/logseq-omnivore) 🚀
   1. [Whisper 文字起こし プラグイン](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🚀
   1. [脚注プレビュー プラグイン](https://github.com/b-yp/logseq-preview-footnote) 🚀
 
-#### 私が製作したプラグイン
+#### myプラグイン
 
   > 上から新しい順
 
 - 2024年
+
+  <details>
+    <summary>Google Books プラグイン 🚀 Google Books APIを活用して、書籍ページ作成 (アカウント不要)</summary>
+    <a href="https://github.com/YU000jp/logseq-plugin-google-books">GitHubで見る</a>
+  </details>
+
   <details>
     <summary>Single Journal プラグイン 🚀 今日の日誌だけを表示します</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-single-journal">GitHubで見る</a>
   </details>
-
 
 - 2023年
 
@@ -38,7 +41,6 @@
   <details>
     <summary>Side Block プラグイン 🚀 左右にブロック(箇条書き)を配置する</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-side-block">GitHubで見る</a>
-    <p>親ブロックにタグをつけるとその隣に、その子孫ブロックを配置します。</p>
     <img src="https://github.com/YU000jp/logseq-plugin-side-block/assets/111847207/c85ebc5e-9442-42c0-bac5-1616203483ca" style="max-width:400px;max-height:400px"/>
   </details>
 
@@ -49,7 +51,7 @@
   </details>
 
   <details>
-    <summary>Left Sidebar Enhance プラグイン 🚀 左サイドバーをマウスオーバーで表示</summary>
+    <summary>Left Sidebar Enhance プラグイン 🚀 左サイドバー拡張 (マウスオーバー、目次機能など)</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance">GitHubで見る</a>
   </details>
 
@@ -67,9 +69,9 @@
   </details>
 
   <details>
-    <summary>Old Date Format プラグイン 🚀 日時の表示形式を変更したあとに、無効化したリンクを有効なリンクに変換します</summary>
+    <summary>Old Date Format プラグイン 🚀 日時の表示形式を変更したあとに、無効化してしまったリンクを変換します</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-legacy-date-format">GitHubで見る</a>
-    <p>通常、Logseqでは日付形式を変更した後に、日付リンクが更新されず、そのリンクが無効になります。そのリンクを置き換えて使用可能にするためのプラグインです。リダイレクトもできます。</p>
+    <p>通常、Logseqの設定で日付形式を変更した後に、日付リンクが更新されず、そのリンクが無効になります。そのリンクを置き換えて使用可能にするためのプラグインです。</p>
   </details>
 
   <details>
@@ -113,9 +115,9 @@
   </details>
 
   <details>
-    <summary>Short Namespaces プラグイン 🚀 ページ名の階層を省略する</summary>
+    <summary>Short Namespaces プラグイン 🚀 ページタイトルの階層を省略する</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-short-namespaces">GitHubで見る</a>
-    <p>長くなりがちな、階層(/スラッシュ区切り)をもつページへのリンク(もしくはタグ)を省略して表示します。</p>
+    <p>階層(/スラッシュ区切り)をもつページへのリンク(もしくはタグ)を省略して表示します。</p>
   </details>
 
   <details>
@@ -131,16 +133,13 @@
   </details>
 
   <details>
-    <summary>Show Weekday and Week-number プラグイン 🚀 日誌用カレンダーなど</summary>
+    <summary>Show Weekday and Week-number プラグイン 🚀 日誌のための2行カレンダーなど</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number">GitHubで見る</a>
-    <p>日付タイトルの横に、曜日と週番号を表示します.<br/>
-    日誌にそのリンクを持つミニカレンダーを表示します。前後の日付にアクセスしたり、週刊レビューと月刊レビューのページへのリンクが提供されます。</p>
   </details>
 
   <details>
     <summary>More journal templates プラグイン 🚀 曜日ごとの日誌テンプレート</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends">GitHubで見る</a>
-    <p>曜平日と週末、あるいは曜日ごと、祝日などの条件を指定して、日誌テンプレートをセットします。</p>
   </details>
 
   <details>
@@ -153,7 +152,7 @@
   </details>
 
   <details>
-    <summary>🌱Innovation Lab プラグイン 🚀 開発中の公開用</summary>
+    <summary>🌱Innovation Lab プラグイン 🚀 開発段階の機能を仮公開</summary>
     <a href="https://github.com/YU000jp/logseq-plugin-some-menu-extender">GitHubで見る</a>
     <ul>
       <li>現在開発中のいくつかの機能 や 他のプラグインのバグ修正バージョン を提供します。</li>
@@ -179,11 +178,10 @@
   </ul>
   </details>
     <details>
-  <summary>📚booklog-jp-import プラグイン(🚀 ※非推奨) ブクログ用インポート</summary>
+  <summary>📚booklog-jp-import プラグイン ブクログ用インポート</summary>
   <a href="https://github.com/YU000jp/logseq-plugin-booklog-jp-import">GitHubで見る</a>
   <ul>
-    <li>ブクログのエクスポートファイルををもとに、まとめて書籍名ページを作成するプラグイン</li>
-    <li><small>⚠️書影カバーの画像が取得できなくなりました。現在はカバー画像なしでの利用になります。</small></li>
+    <li>ブクログのエクスポートファイルををもとに、まとめて書籍のページを作成するプラグイン。書影カバーも取り込めます。</li>
   </ul>
   </details>
   <details>
@@ -191,11 +189,11 @@
     <a href="https://github.com/YU000jp/logseq-page-tags-and-hierarchy">GitHubで見る</a>
     <ul>
       <li>階層をもつページ名を分割して そのリンクを作成します</li>
-      <li>ページビューUI: 通常、コンテンツ内に置かれているページタグと階層を、それとは異なる位置に配置します。</li>
+      <li>ページビューUI: ページコンテンツ内に置かれているページタグと階層を、通常とは異なる位置に配置します。</li>
     </ul>
   </details>
   <details>
-    <summary>Column Layout (Journals UI) プラグイン 🚀 カラムレイアウト</summary>
+    <summary>Column Layout (Journals UI) プラグイン 🚀 日誌のUIを変更</summary>
     <a href="https://github.com/YU000jp/Logseq-column-Layout">GitHubで見る</a> 
     <ul>
       <li>日誌のためのページビューUI: 日誌、"Lined References"、日誌クエリーを横並びにして配置します。</li>
