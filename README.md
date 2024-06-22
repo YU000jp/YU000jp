@@ -12,6 +12,7 @@
 ## development stage 🚧🦺 2024
 
 1. [Logseq Classic (app)](https://github.com/YU000jp/fork-logseq)
+1. [Default Template (for New Page) plugin](https://github.com/YU000jp/logseq-plugin-default-template) 20240622
 
 ---
 
@@ -54,6 +55,7 @@
 ### In 2022
 
 1. 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
+1. 📚[booklog-jp-import plugin](https://github.com/YU000jp/logseq-plugin-booklog-jp-import)
 1. [Page-tags and Hierarchy (Page UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
 1. [Column Layout (Journals UI) plugin](https://github.com/YU000jp/Logseq-column-Layout)
 
