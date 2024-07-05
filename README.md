@@ -11,48 +11,40 @@
 
 ## My Products History
 
-> Logseq Plugin, Theme..
-
-### In 2024
+| Year | Plugin Name | Category |
+|------|-------------|----------|
+| 2024 | [Default Template plugin](https://github.com/YU000jp/logseq-plugin-default-template) | Template |
+| 2024 | [Google Books plugin](https://github.com/YU000jp/logseq-plugin-google-books) | Books |
+| 2024 | [Single Journal plugin](https://github.com/YU000jp/logseq-plugin-single-journal) | Journal |
+| 2023 | [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image) | Image |
+| 2023 | [Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) | Block |
+| 2023 | [More Reference plugin](https://github.com/YU000jp/logseq-plugin-reference-guide) | Block |
+| 2023 | [Left Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | UI |
+| 2023 | [2 Hop Link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) | Link |
+| 2023 | [Flexible Date Format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) | Date |
+| 2023 | [Old Date Format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | Date |
+| 2023 | [New Line Shortcut plugin](https://github.com/YU000jp/logseq-plugin-blank-line) | Shortcut |
+| 2023 | [Classic Dark Theme Pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) | Theme |
+| 2023 | [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets) | Shortcut |
+| 2023 | [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style) | Style |
+| 2023 | [💪DONE task property plugin](https://github.com/YU000jp/logseq-plugin-confirmation-done-task) | Task |
+| 2023 | [🔗URL HyperLink plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) | Markdown |
+| 2023 | [Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces) | Link |
+| 2023 | [Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method) | Shortcut |
+| 2023 | [Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) | Journal |
+| 2023 | [More journal templates plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | Template |
+| 2023 | [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup) | UI |
+| 2023 | [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | Lab |
+| 2023 | [📚Rakuten-Books plugin](https://github.com/YU000jp/logseq-plugin-rakuten-books) | Books |
+| 2022 | [🎨Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring) | Style |
+| 2022 | [📚booklog-jp-import plugin](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) | Books |
+| 2022 | [Page-tags and Hierarchy plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | UI |
+| 2022 | [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout) | UI |
 
 1. [Logseq Classic (app)](https://github.com/YU000jp/fork-logseq) 🚧🦺
-1. [Default Template (for New Page) plugin](https://github.com/YU000jp/logseq-plugin-default-template) 20240622
-1. [📚Google Books plugin](https://github.com/YU000jp/logseq-plugin-google-books) 20240602
-1. [Single Journal plugin](https://github.com/YU000jp/logseq-plugin-single-journal) 20240102
-
-### In 2023
-
-1. [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image)
-1. [Show page date plugin](https://github.com/YU000jp/logseq-plugin-show-page-date)
-1. For plugin dev > Translate > [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json)
-1. For plugin dev > Translate > [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json)
-1. [#️⃣Bullet Point Custom Icon plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon)
-1. [🥦Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block)
-1. [More Reference plugin](https://github.com/YU000jp/logseq-plugin-reference-guide)
-1. [Left-Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance)
-1. [2 hop link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link)
-1. [Flexible date format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format)
-1. [Old date format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format)
-1. [🦢New line Shortcut plugin](https://github.com/YU000jp/logseq-plugin-blank-line)
-1. [Classic dark theme pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack)
-1. [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets)
-1. [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style)
-1. [💪DONE task property plugin](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
-1. [🔗URL Hyperlink plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink)
-1. [🍰Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces)
-1. [⚓Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method)
-1. [📆Show weekday and week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
-1. [🛌More journal templates plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends)
-1. [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup)
-1. [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender)
-1. [📚Rakuten Books plugin](https://github.com/YU000jp/logseq-plugin-rakuten-books)
-
-### In 2022
-
-1. 🎨[Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring)
-1. 📚[booklog-jp-import plugin](https://github.com/YU000jp/logseq-plugin-booklog-jp-import)
-1. [Page-tags and Hierarchy (Page UI) plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy)
-1. [Column Layout (Journals UI) plugin](https://github.com/YU000jp/Logseq-column-Layout)
+1. For plugin dev > Translate
+   1. [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json)
+   1. [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json)
 
 ---
 
