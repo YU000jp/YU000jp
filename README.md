@@ -17,7 +17,7 @@
 | ★★★★ | 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Books |
 | ★★ | 2024 | [Single Journal](https://github.com/YU000jp/logseq-plugin-single-journal) | Journal |
 | ★★ | 2023 | [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image) | Image |
-| ★★ | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-side-block) | Block |
+| ★★ | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) | Block |
 | ★★ | 2023 | [Side Block](https://github.com/YU000jp/logseq-plugin-side-block) | Block |
 | ★ | 2023 | [More Reference](https://github.com/YU000jp/logseq-plugin-reference-guide) | Block |
 | ★★★★ | 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | UI |
