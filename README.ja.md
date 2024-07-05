@@ -9,7 +9,7 @@
 
 ---
 
-#### 製作物
+### 🏳️‍🌈製作物
 
 | ランク | 年 | プラグイン名 | 説明等 | カテゴリ |
 |-------|------|-------------|-------------|----------|
@@ -43,7 +43,7 @@
 
 ---
 
-#### 改善や翻訳をおこなったプラグイン
+### 改善や翻訳をおこなったプラグイン
 
 | プラグイン名 | プラグインの機能 |
 | -- | -- |
@@ -52,7 +52,7 @@
 | [Whisper-Subtitiles](https://github.com/usoonees/logseq-plugin-whisper-subtitles) | Whisper で動画から文字おこしをする |
 | [Preview Footnote](https://github.com/b-yp/logseq-preview-footnote) | Logseqで注釈を使いたい場合 |
 
-#### Logseqに関するリンク
+### Logseqに関するリンク
 
 | リンク | 説明 |
 | -- | -- |
