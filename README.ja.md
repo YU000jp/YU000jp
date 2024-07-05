@@ -14,7 +14,7 @@
 | ランク | 年 | プラグイン名 | 説明等 | カテゴリ |
 |-------|------|-------------|-------------|----------|
 | ★★★★ | 2024 | [Default Template](https://github.com/YU000jp/logseq-plugin-default-template) | ページテンプレートを自動的に適用します。 | Template |
-| ★★★★ | 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Google Books APIを活用して、書籍ページ作成 (アカウント不要) | Books |
+| ★★★★ | 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Google Books APIを活用し、書籍ページ作成 (アカウント不要) | Books |
 | ★ | 2024 | [Single Journal](https://github.com/YU000jp/logseq-plugin-single-journal) | 今日の日誌だけを表示します | Journal |
 | ★★ | 2023 | [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image) | 画像サイズ制限&プレビュー | Image |
 | ★★ | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) | ブロックの箇条書き(・)にカスタムアイコンを設定 | Block |
