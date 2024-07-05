@@ -13,34 +13,32 @@
 
 | Year | Plugin Name | Category |
 |------|-------------|----------|
-| 2024 | [Default Template plugin](https://github.com/YU000jp/logseq-plugin-default-template) | Template |
-| 2024 | [Google Books plugin](https://github.com/YU000jp/logseq-plugin-google-books) | Books |
-| 2024 | [Single Journal plugin](https://github.com/YU000jp/logseq-plugin-single-journal) | Journal |
-| 2023 | [Preview Image plugin](https://github.com/YU000jp/logseq-plugin-preview-image) | Image |
+| 2024 | [Default Template](https://github.com/YU000jp/logseq-plugin-default-template) | Template |
+| 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Books |
+| 2024 | [Single Journal](https://github.com/YU000jp/logseq-plugin-single-journal) | Journal |
+| 2023 | [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image) | Image |
 | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-side-block) | Block |
-| 2023 | [Side Block plugin](https://github.com/YU000jp/logseq-plugin-side-block) | Block |
-| 2023 | [More Reference plugin](https://github.com/YU000jp/logseq-plugin-reference-guide) | Block |
-| 2023 | [Left Sidebar Enhance plugin](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | UI |
-| 2023 | [2 Hop Link plugin](https://github.com/YU000jp/logseq-plugin-two-hop-link) | Link |
-| 2023 | [Flexible Date Format plugin](https://github.com/YU000jp/logseq-plugin-flex-date-format) | Date |
-| 2023 | [Old Date Format plugin](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | Date |
-| 2023 | [New Line Shortcut plugin](https://github.com/YU000jp/logseq-plugin-blank-line) | Shortcut |
+| 2023 | [Side Block](https://github.com/YU000jp/logseq-plugin-side-block) | Block |
+| 2023 | [More Reference](https://github.com/YU000jp/logseq-plugin-reference-guide) | Block |
+| 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | UI |
+| 2023 | [2 Hop Link](https://github.com/YU000jp/logseq-plugin-two-hop-link) | Link |
+| 2023 | [Flexible Date Format](https://github.com/YU000jp/logseq-plugin-flex-date-format) | Link |
+| 2023 | [Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | Link |
+| 2023 | [New Line Shortcut](https://github.com/YU000jp/logseq-plugin-blank-line) | Shortcut |
 | 2023 | [Classic Dark Theme Pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) | Theme |
-| 2023 | [📂Multiple Files into Assets plugin](https://github.com/YU000jp/logseq-plugin-multiple-assets) | Shortcut |
-| 2023 | [🔷Bullet Point Style plugin](https://github.com/YU000jp/logseq-plugin-bullet-point-style) | Style |
-| 2023 | [💪DONE task property plugin](https://github.com/YU000jp/logseq-plugin-confirmation-done-task) | Task |
-| 2023 | [🔗URL HyperLink plugin](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) | Markdown |
-| 2023 | [Short Namespaces plugin](https://github.com/YU000jp/logseq-plugin-short-namespaces) | Link |
-| 2023 | [Quickly PARA method plugin](https://github.com/YU000jp/logseq-plugin-quickly-para-method) | Shortcut |
-| 2023 | [Show Weekday and Week-number plugin](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) | Journal |
-| 2023 | [More journal templates plugin](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | Template |
-| 2023 | [📍Sticky Popup plugin](https://github.com/YU000jp/logseq-plugin-sticky-popup) | UI |
-| 2023 | [🌱Innovation Lab plugin](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | Lab |
-| 2023 | [📚Rakuten-Books plugin](https://github.com/YU000jp/logseq-plugin-rakuten-books) | Books |
-| 2022 | [🎨Panel Coloring plugin](https://github.com/YU000jp/logseq-plugin-panel-coloring) | Style |
-| 2022 | [📚booklog-jp-import plugin](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) | Books |
-| 2022 | [Page-tags and Hierarchy plugin](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | UI |
-| 2022 | [Column Layout plugin](https://github.com/YU000jp/Logseq-column-Layout) | UI |
+| 2023 | [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets) | Shortcut |
+| 2023 | [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style) | Style |
+| 2023 | [💪DONE task property](https://github.com/YU000jp/logseq-plugin-confirmation-done-task) | Block |
+| 2023 | [🔗URL HyperLink](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) | Link |
+| 2023 | [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces) | Link |
+| 2023 | [Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) | Shortcut |
+| 2023 | [Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) | Journal |
+| 2023 | [More journal templates](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | Template |
+| 2023 | [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup) | UI |
+| 2023 | [🌱Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | Lab |
+| 2022 | [🎨Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring) | Style |
+| 2022 | [Page-tags and Hierarchy](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | UI |
+| 2022 | [Column Layout](https://github.com/YU000jp/Logseq-column-Layout) | UI |
 
 1. [Logseq Classic (app)](https://github.com/YU000jp/fork-logseq) 🚧🦺
 1. For plugin dev > Translate
