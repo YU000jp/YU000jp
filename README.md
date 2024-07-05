@@ -23,10 +23,10 @@
 | ★★★★ | 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | UI |
 | ★ | 2023 | [2 Hop Link](https://github.com/YU000jp/logseq-plugin-two-hop-link) | Link |
 | ★★★★ | 2023 | [Flexible Date Format](https://github.com/YU000jp/logseq-plugin-flex-date-format) | Link |
-| ★★★★ | 2023 | [Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | Link |
-| ★★★★ | 2023 | [New Line Shortcut](https://github.com/YU000jp/logseq-plugin-blank-line) | Shortcut |
+| ★★★ | 2023 | [Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | Link |
+| ★★★ | 2023 | [New Line Shortcut](https://github.com/YU000jp/logseq-plugin-blank-line) | Shortcut |
 | ★★★★ | 2023 | [Classic Dark Theme Pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) | Theme |
-| ★★★ | 2023 | [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets) | Shortcut |
+| ★★ | 2023 | [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets) | Shortcut |
 | ★★ | 2023 | [🔷Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style) | Style |
 | ★★ | 2023 | [💪DONE task property](https://github.com/YU000jp/logseq-plugin-confirmation-done-task) | Block |
 | ★★★★ | 2023 | [🔗URL HyperLink](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) | Link |
