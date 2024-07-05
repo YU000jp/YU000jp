@@ -23,7 +23,7 @@
 | ★★★★ | 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | 左サイドバー拡張 (マウスオーバー、目次機能など) | UI |
 | ★ | 2023 | [2 Hop Link](https://github.com/YU000jp/logseq-plugin-two-hop-link) | 2ホップリンク | Link |
 | ★★★★ | 2023 | [Flexible Date Format](https://github.com/YU000jp/logseq-plugin-flex-date-format) | 日時の表示形式を日本語表記にします | Link |
-| ★★★★ | 2023 | [Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | 日時の表示形式を変更したあとに、無効化してしまったリンクを変換します | Link |
+| ★★★ | 2023 | [Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | 日時の表示形式を変更したあとに、無効化してしまったリンクを変換します | Link |
 | ★★★ | 2023 | [New Line Shortcut](https://github.com/YU000jp/logseq-plugin-blank-line) | 空の行を挿入するためのショートカット | Shortcut |
 | ★★★★ | 2023 | [Classic Dark Theme Pack](https://github.com/YU000jp/logseq-theme-classic-dark-theme-pack) | ダークモード用のシンプルなテーマ | Theme |
 | ★★ | 2023 | [📂Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets) | 複数のファイルをアセットに入れる | Shortcut |
