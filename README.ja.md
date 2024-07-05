@@ -1,6 +1,6 @@
 
 
-- YU (YU000jp) は [Logseq](https://github.com/logseq) 用のプラグインを作っています！ 
+- **YU000jp** は [Logseq](https://github.com/logseq) 用のプラグインを作っています！ 
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" />
