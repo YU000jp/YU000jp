@@ -17,7 +17,7 @@
 | ★★★★ | 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Google Books APIを活用して、書籍ページ作成 (アカウント不要) | Books |
 | ★ | 2024 | [Single Journal](https://github.com/YU000jp/logseq-plugin-single-journal) | 今日の日誌だけを表示します | Journal |
 | ★★ | 2023 | [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image) | 画像サイズ制限&プレビュー | Image |
-| ★★ | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-side-block) | ブロックの箇条書き(・)にカスタムアイコンを設定 | Block |
+| ★★ | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) | ブロックの箇条書き(・)にカスタムアイコンを設定 | Block |
 | ★★ | 2023 | [Side Block](https://github.com/YU000jp/logseq-plugin-side-block) | 左右にブロック(箇条書き)を配置する | Block |
 | ★ | 2023 | [More Reference](https://github.com/YU000jp/logseq-plugin-reference-guide) | 各ブロック参照のサイズを表示 | Block |
 | ★★★★ | 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | 左サイドバー拡張 (マウスオーバー、目次機能など) | UI |
