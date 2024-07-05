@@ -45,7 +45,15 @@
 
 #### 改善や翻訳をおこなったプラグイン
 
-  1. [Assets Plus](https://github.com/xyhp915/logseq-assets-plus) 🚀
-  1. [logseq-Omnivore](https://github.com/YU000jp/logseq-omnivore) 🚀
-  1. [Whisper-Subtitiles](https://github.com/usoonees/logseq-plugin-whisper-subtitles) 🚀
-  1. [Preview Footnote](https://github.com/b-yp/logseq-preview-footnote) 🚀
+| プラグイン名 | プラグインの機能 |
+| -- | -- |
+| [Assets Plus](https://github.com/xyhp915/logseq-assets-plus) | 画像ファイルなどのアセットの検索 |
+| [logseq-Omnivore](https://github.com/YU000jp/logseq-omnivore) | Omnivore.app というWebブックマークサイトとの同期 |
+| [Whisper-Subtitiles](https://github.com/usoonees/logseq-plugin-whisper-subtitles) | Whisper で動画から文字おこしをする |
+| [Preview Footnote](https://github.com/b-yp/logseq-preview-footnote) | Logseqで注釈を使いたい場合 |
+
+#### Logseqに関するリンク
+
+| リンク | 説明 |
+| -- | -- |
+| [Logseq Discord 日本語](https://discord.com/channels/725182569297215569/825893548636241920) | Discord コミュニティ |
