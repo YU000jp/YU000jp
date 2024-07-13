@@ -20,7 +20,7 @@
 | ★★ | 2023 | [Bullet Point Custom Icon](https://github.com/YU000jp/logseq-plugin-bullet-point-custom-icon) | ブロックの箇条書き(・)にカスタムアイコンを設定 | ブロック |
 | ★★ | 2023 | [Side Block](https://github.com/YU000jp/logseq-plugin-side-block) | 左右にブロック(箇条書き)を配置する | ブロック |
 | ★ | 2023 | [More Reference](https://github.com/YU000jp/logseq-plugin-reference-guide) | 各ブロック参照のサイズを表示 | ブロック |
-| ★★★★ | 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | 左サイドバー拡張 (マウスオーバー、目次機能など) | UI |
+| ★★★★ | 2023 | [Left Sidebar Enhance](https://github.com/YU000jp/logseq-plugin-left-sidebar-enhance) | 左サイドバー拡張 (マウスオーバー、目次機能など) | UI / 目次 |
 | ★ | 2023 | [2 Hop Link](https://github.com/YU000jp/logseq-plugin-two-hop-link) | 2ホップリンク | リンク |
 | ★★★★ | 2023 | [Flexible Date Format](https://github.com/YU000jp/logseq-plugin-flex-date-format) | 日時の表示形式を日本語表記にします | リンク |
 | ★★★ | 2023 | [Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | 日時の表示形式を変更したあとに、無効化してしまったリンクを変換します | リンク |
