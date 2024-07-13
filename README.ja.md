@@ -13,7 +13,7 @@
 
 | ランク | 年 | プラグイン名 | 説明等 | カテゴリ |
 |-------|------|-------------|-------------|----------|
-| ★★★★ | 2024 | [Default Template](https://github.com/YU000jp/logseq-plugin-default-template) | ページテンプレートを自動的に適用します。 | テンプレート |
+| ★★★★ | 2024 | [Default Page Template / Footprint](https://github.com/YU000jp/logseq-plugin-default-template) | ページテンプレートを自動的に適用する。ページ足あと機能。 | テンプレート |
 | ★★★★ | 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Google Books APIを活用し、書籍ページ作成 (アカウント不要) | 本 |
 | ★ | 2024 | [Single Journal](https://github.com/YU000jp/logseq-plugin-single-journal) | 今日の日誌だけを表示します | ジャーナル |
 | ★★ | 2023 | [Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image) | 画像サイズ制限&プレビュー | 画像 |
