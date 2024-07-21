@@ -2,7 +2,7 @@
 <div align="center">
   
 ![image](https://github.com/user-attachments/assets/6d302d08-e94b-4ab9-bcea-9cf118ee4498)
-- **YU000jp** は [Logseq](https://github.com/logseq) 用のプラグインを作っています！ 
+> **YU000jp** は [Logseq](https://github.com/logseq) 用のプラグインを作っています！ 
 </div>
 
 <div align="right">
