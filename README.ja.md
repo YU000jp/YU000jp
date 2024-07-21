@@ -1,6 +1,9 @@
 
-
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/6d302d08-e94b-4ab9-bcea-9cf118ee4498)
 - **YU000jp** は [Logseq](https://github.com/logseq) 用のプラグインを作っています！ 
+</div>
 
 <div align="right">
 <a href="#"><img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" /></a>
