@@ -16,7 +16,7 @@
 
 | ランク | 年 | プラグイン名 | 説明等 | カテゴリ |
 |-------|------|-------------|-------------|----------|
-| ★★★ | 2024 | [Tabbed Headers for page-content (TOC)](https://github.com/YU000jp/logseq-plugin-tabbed-headers-for-page-content) 🚧⚠️ | ヘッダーで区切って、ページを分割 | 目次 |
+| ★★★ | 2024 | [Hierarchy Tool (TOC)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) 🚧⚠️ | ヘッダーで区切って、ページを分割 | 目次 |
 | ★★★ | 2024 | [Toolbar Enhance](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) 🚧⚠️ | ツールバーにいくつかの機能ボタンを追加します | ツールバー |
 | ★★★ | 2024 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) 🆕 | ツールバーボタンから、テンプレートブロックの一覧を表示。 | テンプレート / ツールバー |
 | ★★★★ | 2024 | [Default Page Template / Footprint](https://github.com/YU000jp/logseq-plugin-default-template) 🆕 | ページテンプレートを自動的に適用する。ページ足あと機能。 | テンプレート |
