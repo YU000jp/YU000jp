@@ -16,8 +16,8 @@
 
 | ランク | 年 | プラグイン名 | 説明等 | カテゴリ |
 |-------|------|-------------|-------------|----------|
-| ★★★ | 2024 | [Hierarchy Tool (TOC)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) 🚧⚠️ | ヘッダーで区切って、ページを分割 | 目次 |
-| ★★★ | 2024 | [Toolbar Enhance](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) 🚧⚠️ | ツールバーにいくつかの機能ボタンを追加します | ツールバー |
+| ★★★ | 2024 | [Hierarchy Tool (TOC)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) | ヘッダーで区切って、ページを分割 | 目次 |
+| ★★★ | 2024 | [Toolbar Enhance](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) | ツールバーにいくつかの機能ボタンを追加します | ツールバー |
 | ★★★ | 2024 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) 🆕 | ツールバーボタンから、テンプレートブロックの一覧を表示。 | テンプレート / ツールバー |
 | ★★★★ | 2024 | [Default Page Template / Footprint](https://github.com/YU000jp/logseq-plugin-default-template) 🆕 | ページテンプレートを自動的に適用する。ページ足あと機能。 | テンプレート |
 | ★★★★ | 2024 | [Google Books](https://github.com/YU000jp/logseq-plugin-google-books) | Google Books APIを活用し、書籍ページ作成 (アカウント不要) | 本 |
