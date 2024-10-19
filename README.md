@@ -11,7 +11,7 @@
 
 ## 🏳️‍🌈My productions
 
-| db compatibility | Year | Plugin Name | Category | Download | Stars |
+| db-ver | Year | Plugin Name | Category | Download | Stars |
 |------|------|-------------|----------|----------|-------|
 | ✖ | 2024 | [Hierarchy Tool (TOC)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) 🆕 | TOC | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-hierarchy-tool/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-hierarchy-tool?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) |
 | ✖ | 2024 | [Toolbar Enhance](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) 🆕 | Toolbar | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-toolbar-enhance/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-toolbar-enhance?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) |
