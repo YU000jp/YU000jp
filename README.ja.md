@@ -17,6 +17,7 @@
 |------|-------------|-------------|----------|
 | 2025 | [Logging Search](https://github.com/YU000jp/logseq-plugin-logging-search) | クエリー機能を使用して、ブロック単位の検索結果を表示します | 検索 |
 | 2025 | [Draft Notes](https://github.com/YU000jp/logseq-plugin-draft-notes) | 下書きをまとめて管理するためのプラグイン。アイデア帳としても活用できる。 | テンプレート |
+| 2025 | [Multi Random Note](https://github.com/YU000jp/logseq-plugin-multi-random-note) | ランダムに複数のページをembedで表示できるプラグイン。 | 検索 |
 | 2024 | [Hierarchy Tool (TOC)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) | 階層移動のためのツール | 目次 |
 | 2024 | [Toolbar Enhance](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) | ツールバーにいくつかの機能ボタンを追加します | ツールバー |
 | 2024 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) 🆕 | スラッシュコマンドではなく、ツールバーから挿入するテンプレートを選択できるプラグイン。 | テンプレート / ツールバー |
