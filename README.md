@@ -27,7 +27,7 @@
 | [Rakuten Books](https://github.com/YU000jp/logseq-plugin-rakuten-books) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-rakuten-books/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-rakuten-books?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) |
 
 
-### 📦 Archive plugins
+### 📦 Continuous maintenance plugins
 > Those with 🔘 may also be compatible with the Logseq DB version in the future. Maintenance of these plugins is ongoing.
 
 #### 2025 🆕
@@ -64,7 +64,12 @@
 | [Page-tags and Hierarchy](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | UI | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-page-tags-and-hierarchy/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-page-tags-and-hierarchy?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) |
 | [Column Layout](https://github.com/YU000jp/Logseq-column-Layout) | UI | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/Logseq-column-Layout/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/Logseq-column-Layout) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/Logseq-column-Layout?style=for-the-badge&label=%20)](https://github.com/YU000jp/Logseq-column-Layout) |
 
-#### 🔒 Discontinued plugins
+
+---
+
+## 💼Archived
+
+### 🔒 Discontinued plugins
 > These plugins have been removed from the marketplace. No development or maintenance.
 
 | Plugin Name | Category | Download | Stars |
@@ -74,6 +79,8 @@
 | [📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup) | UI | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-sticky-popup/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-sticky-popup) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-sticky-popup?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-sticky-popup) |
 | [🌱Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | Task | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-some-menu-extender/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-some-menu-extender?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-some-menu-extender) |
 | [bookLog-jp-import](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-booklog-jp-import/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-two-hop-link) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-booklog-jp-import?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) |
+
+---
 
 1. [Logseq Plugin Sample Kit for TypeScript](https://github.com/YU000jp/logseq-plugin-sample-kit-typescript)
    - Sample kit for a simple Logseq plugin that does not require React or other tools.
