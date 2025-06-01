@@ -12,7 +12,7 @@
 ## 🏳️‍🌈My Productions
 
 ### 📌 DB Model Compatible Plugins
-> These plugins work with both Logseq DB model. For Logseq v.0.11.*
+> These plugins work with both Logseq DB model and file-based model. For Logseq v.0.11.*
 
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
