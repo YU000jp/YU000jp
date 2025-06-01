@@ -12,7 +12,7 @@
 ## 🏳️‍🌈My productions
 
 ### 📌 DB-version Compatible plugins
-> These plugins work with both Logseq DB version.
+> These plugins work with both Logseq DB version. For Logseq v.0.11.*
 
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
@@ -28,8 +28,8 @@
 | [Rakuten Books](https://github.com/YU000jp/logseq-plugin-rakuten-books) (MD graph only) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-rakuten-books/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-rakuten-books?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) |
 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) (MD graph only) | Template / Toolbar | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-template-block-from-toolbar/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-template-block-from-toolbar?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) |
 
-### 📦 Continuous maintenance plugins
-> Those with 🔘 may also be compatible with the Logseq DB version in the future. Maintenance of these plugins is ongoing.
+### 📦 plugins for only file-based graph
+> Those with 🔘 may also be compatible with the Logseq DB version in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
 
 #### 2025 🆕
 | Plugin Name | Category | Download | Stars |
@@ -69,7 +69,7 @@
 ## 💼Archived
 
 ### 🔒 Discontinued plugins
-> These plugins have been removed from the marketplace. No development or maintenance.
+> These plugins have been removed from the marketplace. No development or maintenance. For Logseq v.0.10.*
 
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
