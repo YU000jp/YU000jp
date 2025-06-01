@@ -11,7 +11,7 @@
 
 ## 🏳️‍🌈My productions
 
-### 📌 DB-version Compatible plugins
+### 📌 DB-version Compatible Plugins
 > These plugins work with both Logseq DB version. For Logseq v.0.11.*
 
 | Plugin Name | Category | Download | Stars |
