@@ -28,7 +28,7 @@
 | [Rakuten Books](https://github.com/YU000jp/logseq-plugin-rakuten-books) (MD graph only) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-rakuten-books/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-rakuten-books?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) |
 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) (MD graph only) | Template / Toolbar | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-template-block-from-toolbar/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-template-block-from-toolbar?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) |
 
-### 📦 plugins for only file-based graph
+### 📦 Plugins for only file-based graph
 > Those with 🔘 may also be compatible with the Logseq DB version in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
 
 #### 2025 🆕
