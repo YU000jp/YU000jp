@@ -9,9 +9,9 @@
 
 ---
 
-## 🏳️‍🌈My productions
+## 🏳️‍🌈My Productions
 
-### 📌 DB-version Compatible Plugins
+### 📌 DB Model Compatible Plugins
 > These plugins work with both Logseq DB version. For Logseq v.0.11.*
 
 | Plugin Name | Category | Download | Stars |
@@ -24,7 +24,7 @@
 | [New Line Shortcut](https://github.com/YU000jp/logseq-plugin-blank-line) | Shortcut | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-blank-line/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-blank-line) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-blank-line?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-blank-line) |
 | [🔗URL HyperLink](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) | Link | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-confirmation-hyperlink/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-confirmation-hyperlink?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-confirmation-hyperlink) |
 
-#### MD graph only
+#### File-based Model only
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
 | [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces) | Link | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-short-namespaces/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-short-namespaces) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-short-namespaces?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-short-namespaces) |
@@ -32,7 +32,7 @@
 | [Rakuten Books](https://github.com/YU000jp/logseq-plugin-rakuten-books) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-rakuten-books/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-rakuten-books?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-rakuten-books) |
 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) | Template / Toolbar | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-template-block-from-toolbar/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-template-block-from-toolbar?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) |
 
-### 📦 Plugins for only file-based graph
+### 📦 Plugins for only File-based Graph
 > Those with 🔘 may also be compatible with the Logseq DB version in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
 
 #### 2025 🆕
@@ -73,7 +73,7 @@
 
 ## 💼Archived
 
-### 🔒 Discontinued plugins
+### 🔒 Discontinued Plugins
 > These plugins have been removed from the marketplace. No development or maintenance. For Logseq v.0.10.*
 
 | Plugin Name | Category | Download | Stars |
@@ -85,6 +85,8 @@
 | [bookLog-jp-import](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-booklog-jp-import/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-two-hop-link) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-booklog-jp-import?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) |
 
 ---
+
+## For Plugin Developers
 
 1. [Logseq Plugin Sample Kit for TypeScript](https://github.com/YU000jp/logseq-plugin-sample-kit-typescript)
    - Sample kit for a simple Logseq plugin that does not require React or other tools.
