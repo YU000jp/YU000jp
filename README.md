@@ -90,7 +90,7 @@
 
 1. [Logseq Plugin Sample Kit for TypeScript](https://github.com/YU000jp/logseq-plugin-sample-kit-typescript)
    - Sample kit for a simple Logseq plugin that does not require React or other tools.
-1. For plugin dev > Translate
+1. Translate
    1. [Logseq L10N Generate JSON-file](https://github.com/YU000jp/logseq-l10n-generate-json)
    1. [Logseq L10N Clone JSON-file](https://github.com/YU000jp/logseq-l10n-clone-json)
 
