@@ -12,7 +12,7 @@
 ## 🏳️‍🌈My Productions
 
 ### 📌 DB Model Compatible Plugins
-> These plugins work with both Logseq DB version. For Logseq v.0.11.*
+> These plugins work with both Logseq DB model. For Logseq v.0.11.*
 
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
@@ -33,7 +33,7 @@
 | [Template-Block from Toolbar](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) | Template / Toolbar | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-template-block-from-toolbar/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-template-block-from-toolbar?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-template-block-from-toolbar) |
 
 ### 📦 Plugins for only File-based Graph
-> Those with 🔘 may also be compatible with the Logseq DB version in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
+> Those with 🔘 may also be compatible with the Logseq DB model in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
 
 #### 2025 🆕
 | Plugin Name | Category | Download | Stars |
