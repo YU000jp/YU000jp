@@ -28,7 +28,7 @@
 | [Bullet Point Style](https://github.com/YU000jp/logseq-plugin-bullet-point-style) | Bullet | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-bullet-point-style/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-bullet-point-style) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-bullet-point-style?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-bullet-point-style) |
 | [Toolbar Enhance](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) | Toolbar | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-toolbar-enhance/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-toolbar-enhance?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-toolbar-enhance) |
 
-#### File-based Graph only
+#### 📦 File-based Graph only
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
 | [Short Namespaces](https://github.com/YU000jp/logseq-plugin-short-namespaces) | Link | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-short-namespaces/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-short-namespaces) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-short-namespaces?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-short-namespaces) |
@@ -42,36 +42,22 @@
 | [More journal templates](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | Template | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-weekdays-and-weekends/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-weekdays-and-weekends?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) |
 | [Default Page Template / Footprint](https://github.com/YU000jp/logseq-plugin-default-template) | Template | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-default-template/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-default-template) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-default-template?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-default-template) |
 
-### 📦 Plugins for only File-based model
+### 📦 Plugins for File-based model only
 > Those with 🔘 may also be compatible with the Logseq DB model in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
 
-#### 2025 🆕
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
 | 🔘[Task Suggest](https://github.com/YU000jp/logseq-plugin-task-suggest) | Task | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-task-suggest/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-task-suggest) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-task-suggest?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-task-suggest) |
-
-#### 2024
-| Plugin Name | Category | Download | Stars |
-|-------------|----------|----------|-------|
 | ➖[Hierarchy Tool (TOC)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) | TOC | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-hierarchy-tool/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-hierarchy-tool?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-hierarchy-tool) |
 | ➖[Single Journal](https://github.com/YU000jp/logseq-plugin-single-journal) | Journal | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-single-journal/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-single-journal) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-single-journal?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-single-journal) |
-
-#### 2023
-| Plugin Name | Category | Download | Stars |
-|-------------|----------|----------|-------|
 | ➖[Multiple Files into Assets](https://github.com/YU000jp/logseq-plugin-multiple-assets) | Assets | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-multiple-assets/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-multiple-assets) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-multiple-assets?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-multiple-assets) |
 | ➖[Quickly PARA method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) | Shortcut | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-quickly-para-method/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-quickly-para-method) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-quickly-para-method?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-quickly-para-method) |
 | 🔘[Old Date Format](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | Link | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-legacy-date-format/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-legacy-date-format) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-legacy-date-format?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-legacy-date-format) |
 | 🔘[Show Weekday and Week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) | Journal | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-show-weekday-and-week-number/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-show-weekday-and-week-number?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number) |
 | ➖[2 Hop Link](https://github.com/YU000jp/logseq-plugin-two-hop-link) | Link | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-two-hop-link/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-two-hop-link) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-two-hop-link?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-two-hop-link) |
-
-#### 2022
-| Plugin Name | Category | Download | Stars |
-|-------------|----------|----------|-------|
 | ➖[🎨Panel Coloring](https://github.com/YU000jp/logseq-plugin-panel-coloring) | Style | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-panel-coloring/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-panel-coloring) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-panel-coloring?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-panel-coloring) |
 | 🔘[Page-tags and Hierarchy](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | UI | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-page-tags-and-hierarchy/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-page-tags-and-hierarchy?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-page-tags-and-hierarchy) |
 | 🔘[Column Layout](https://github.com/YU000jp/Logseq-column-Layout) | UI | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/Logseq-column-Layout/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/Logseq-column-Layout) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/Logseq-column-Layout?style=for-the-badge&label=%20)](https://github.com/YU000jp/Logseq-column-Layout) |
-
 
 ---
 
