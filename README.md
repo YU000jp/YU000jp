@@ -10,6 +10,8 @@
 ---
 
 ## 🏳️‍🌈My Productions
+- If you found it useful, please gift it to me via the “Buy me a pizza” button. It would be nice if the number of stars for each repository could be increased.
+- [Logseq](https://github.com/logseq) will soon move from a file-based model to a DB model, which also has its own modes for file-based and DB graph. Each has a different specification, which means that some cases may not work correctly or cannot be supported.
 
 ### 📌 DB Model Compatible Plugins
 > These plugins work with both Logseq DB model and file-based model. For Logseq v.0.11.*
