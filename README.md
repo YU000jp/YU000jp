@@ -14,7 +14,7 @@
 - [Logseq](https://github.com/logseq) will soon move from a file-based model to a DB model, which also has its own modes for file-based and DB graph. Each has a different specification, which means that some cases may not work correctly or cannot be supported.
 
 ### 📌 DB Model Compatible Plugins
-> These plugins work with both Logseq DB model and file-based model. For Logseq v.0.11.*
+> These plugins work with both Logseq DB model and file-based model.
 
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
@@ -42,8 +42,8 @@
 | [More journal templates](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | Template | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-weekdays-and-weekends/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-weekdays-and-weekends?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) |
 | [Default Page Template / Footprint](https://github.com/YU000jp/logseq-plugin-default-template) | Template | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-default-template/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-default-template) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-default-template?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-default-template) |
 
-### 📦 File-based Model only
-> Those with 🔘 may also be compatible with the Logseq DB model in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
+### 📦 File-based Model only (For Logseq v.0.10.*)
+> Those with 🔘 may also be compatible with the Logseq DB model in the future. Maintenance of these plugins is ongoing.
 
 | Plugin Name | Category | Download | Stars |
 |-------------|----------|----------|-------|
@@ -63,7 +63,7 @@
 
 ## 💼Archived
 
-### 🔒 Discontinued Plugins
+### 🔒 Discontinued Plugins (For Logseq v.0.10.*)
 > These plugins have been removed from the marketplace. No development or maintenance. For Logseq v.0.10.*
 
 | Plugin Name | Category | Download | Stars |
