@@ -42,7 +42,7 @@
 | [More journal templates](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | Template | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-weekdays-and-weekends/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-weekdays-and-weekends?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-weekdays-and-weekends) |
 | [Default Page Template / Footprint](https://github.com/YU000jp/logseq-plugin-default-template) | Template | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-default-template/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-default-template) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-default-template?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-default-template) |
 
-### 📦 Plugins for File-based model only
+### 📦 File-based Model only
 > Those with 🔘 may also be compatible with the Logseq DB model in the future. Maintenance of these plugins is ongoing. For Logseq v.0.10.*
 
 | Plugin Name | Category | Download | Stars |
