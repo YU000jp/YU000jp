@@ -4,13 +4,13 @@
 
 <div align="right">
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" /></a> <a href="https://www.buymeacoffee.com/yu000japan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=yu000japan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" /></a>
 </div>
 
 ---
 
 ## 🏳️‍🌈My Productions
-- If you found it useful, please gift it to me via the “Buy me a pizza” button. It would be nice if the number of stars for each repository could be increased.
+- If you found it useful, please gift it to me via the “[Buy me a pizza](https://www.buymeacoffee.com/yu000japan)”. It would be nice if the number of stars for each repository could be increased.
 - [Logseq](https://github.com/logseq) will soon move from a file-based model to a DB model, which also has its own modes for file-based and DB graph. Each has a different specification, which means that some cases may not work correctly or cannot be supported.
 
 ### 📌 DB Model Compatible Plugins
