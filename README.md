@@ -10,7 +10,7 @@
 ---
 
 ## 🏳️‍🌈My Productions
-- If you found it useful, please gift it to me via the “[Buy me a pizza](https://www.buymeacoffee.com/yu000japan)”. It would be nice if the number of stars for each repository could be increased. GitHub Copilot may be able to assist with addressing and resolving the issue. Please let us know if you have any concerns or suggestions.
+- If you found it useful, please gift it to me via the “[Buy me a pizza](https://www.buymeacoffee.com/yu000japan)”. It would be nice if the number of stars for each repository could be increased.
 - [Logseq](https://github.com/logseq) will soon move from a file-based model to a DB model, which also has its own modes for file-based and DB graph. Each has a different specification, which means that some cases may not work correctly or cannot be supported.
 
 ### 📌 DB Model Compatible Plugins
