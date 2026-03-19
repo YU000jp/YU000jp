@@ -61,21 +61,6 @@
 
 ---
 
-## 💼Archived
-
-### 🔒 Discontinued Plugins (For Logseq v.0.10.*)
-> These plugins have been removed from the marketplace. No development or maintenance. For Logseq v.0.10.*
-
-| Plugin Name | Category | Download | Stars |
-|-------------|----------|----------|-------|
-| ➖[Preview Image](https://github.com/YU000jp/logseq-plugin-preview-image) | Image | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-preview-image/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-preview-image) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-preview-image?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-preview-image) |
-| ➖[More Reference](https://github.com/YU000jp/logseq-plugin-reference-guide) | Block | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-reference-guide/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-reference-guide) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-reference-guide?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-reference-guide) |
-| ➖[📍Sticky Popup](https://github.com/YU000jp/logseq-plugin-sticky-popup) | UI | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-sticky-popup/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-sticky-popup) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-sticky-popup?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-sticky-popup) |
-| ➖[🌱Innovation Lab](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | Task | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-some-menu-extender/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-some-menu-extender) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-some-menu-extender?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-some-menu-extender) |
-| ➖[bookLog-jp-import](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) | Books | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-booklog-jp-import/total?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-two-hop-link) | [![GitHub Repo stars](https://img.shields.io/github/stars/YU000jp/logseq-plugin-booklog-jp-import?style=for-the-badge&label=%20)](https://github.com/YU000jp/logseq-plugin-booklog-jp-import) |
-
----
-
 ## For Plugin Developers
 
 1. [Logseq Plugin Sample Kit (TypeScript)](https://github.com/YU000jp/logseq-plugin-sample-kit-typescript)
