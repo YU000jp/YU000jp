@@ -88,6 +88,6 @@
 
 ## 🌱 Skills
 
-[![Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=clojure,ts,js,css,html,perl,php)](#)
+[![Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=clojure,ts,js,css,html,perl,php.solid)](#)
 
 ---
