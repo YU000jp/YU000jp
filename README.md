@@ -1,4 +1,6 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+https://github.com/YU000jp/tauri-window-system - Tauri 2 plugin for building a multi-window foundation.
+
+---
 
 - 🧑‍💻 **YU000jp** is creating [Logseq](https://github.com/logseq) plugin
 
