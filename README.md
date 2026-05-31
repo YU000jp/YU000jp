@@ -1,6 +1,7 @@
 
-https://github.com/YU000jp/tauri-window-system - Tauri 2 plugin for building a multi-window foundation.
-https://github.com/YU000jp/kotoba-check - 日本語ことばチェック
+- https://github.com/YU000jp/tauri-window-system : Tauri 2 plugin for building a multi-window foundation.
+- https://github.com/YU000jp/kotoba-check : 日本語ことばチェック
+- https://github.com/YU000jp/skillpack-helper : CLI-only devDependency for downstream repositories that manage AI helper dictionaries.
 
 ---
 
