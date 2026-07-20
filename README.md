@@ -1,4 +1,5 @@
 
+- https://github.com/YU000jp/tauri-solid-tanstack-core : A local-first desktop application starter — Tauri v2, SolidJS, Vite v8, Park UI, TanStack, Command Registry, and Turbo monorepo for AI-assisted development.
 - https://github.com/YU000jp/tauri-window-system : Tauri 2 plugin for building a multi-window foundation.
 - https://github.com/YU000jp/kotoba-check : 日本語ことばチェック
 - https://github.com/YU000jp/skillpack-helper : CLI-only devDependency for downstream repositories that manage AI helper dictionaries.
