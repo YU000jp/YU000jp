@@ -2,10 +2,6 @@
   
 Building local-first tools with Tauri + SolidJS.  
   
-<div align="right">  
-<a href="#"><img src="https://komarev.com/ghpvc/?username=yu000jp&label=Profile%20views&color=0e75b6&style=flat" alt="yu000jp" /></a>  
-</div>  
-  
 ## Current Projects  
 
 - [solid-outliner](https://github.com/YU000jp/solid-outliner-public) — Local-first outliner desktop app.
