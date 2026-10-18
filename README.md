@@ -4,8 +4,8 @@ Building local-first tools with Tauri + SolidJS.
   
 ## Current Projects  
 
-- [solid-outliner](https://github.com/YU000jp/solid-outliner-public) — Local-first outliner desktop app.
-- [kotoba-check](https://github.com/YU000jp/kotoba-check) — Japanese language checker.  
+- [solid-outliner](https://github.com/YU000jp/solid-outliner-public) — A block-based outliner, based on .md files, and a note-taking app. (desktop)
+- [kotoba-check](https://github.com/YU000jp/kotoba-check) — Japanese language checker.  (desktop)
   
 If you find my work useful: [Buy me a pizza](https://www.buymeacoffee.com/yu000japan)  
   
